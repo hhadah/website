@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/GiT/website/content/home/gallery",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
