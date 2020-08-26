@@ -105,7 +105,7 @@ coordinates = {latitude = "29.721415", longitude = "-95.346408"}
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = ["TBA"]
-Email = [icon = "envelope", icon_pack = "fab", name = "hhadah@uh.edu"", link = "mailto:hhadah@uh.edu"]
+
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
 
