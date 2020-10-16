@@ -20,7 +20,11 @@
 
 #[[main]]
 #  name = "Publications"
+<<<<<<< HEAD
 #  url = "/publication/"
+=======
+#  url = "#featured"
+>>>>>>> parent of 47902b7... Adding publications
 #  weight = 40
 
 #[[main]]
