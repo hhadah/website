@@ -1,9 +1,9 @@
 {
-    "path" : "~/Documents/GiT/website/themes/hugo-academic",
-    "sortOrder" : [
+    "path": "~/Documents/GiT/website/content/home",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
