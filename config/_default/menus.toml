@@ -21,7 +21,11 @@
 #[[main]]
 #  name = "Publications"
 <<<<<<< HEAD
+<<<<<<< HEAD
 #  url = "/publication/"
+=======
+#  url = "#featured"
+>>>>>>> parent of 47902b7... Adding publications
 =======
 #  url = "#featured"
 >>>>>>> parent of 47902b7... Adding publications
