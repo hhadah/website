@@ -14,10 +14,17 @@
   weight = 20
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [[main]]
   name = "Publications"
   url = "/publication/"
   weight = 30
+=======
+#[[main]]
+#  name = "Publications"
+#  url = "#featured"
+#  weight = 40
+>>>>>>> parent of 47902b7... Adding publications
 
 [[main]]
   name = "Talks"
