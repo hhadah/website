@@ -5,59 +5,37 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#home"
   weight = 10
-
-[[main]]
-  name = "Research"
-  url = "#projects"
-  weight = 20
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-[[main]]
-  name = "Publications"
-  url = "/publication/"
-  weight = 30
-=======
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 40
->>>>>>> parent of 47902b7... Adding publications
-
-<<<<<<< HEAD
-[[main]]
-  name = "Talks"
-  url = "/talk/"
-  weight = 40
-=======
-=======
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 40
-
->>>>>>> parent of 47902b7... Adding publications
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 40
->>>>>>> parent of 47902b7... Adding publications
-
-[[main]]
-  name = "CV"
-  url = "files/HussainHadahcv.pdf"
-  weight = 70
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = 60
+
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 30
+
+#[[main]]
+#  name = "Publications"
+#  url = "#featured"
+#  weight = 40
+
+#[[main]]
+#  name = "Courses"
+#  url = "courses/"
+#  weight = 50
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+ [[main]]
+    name = "CV"
+    url = "files/HussainHadahcv.pdf"
+    weight = 70

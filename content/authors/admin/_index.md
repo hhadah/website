@@ -7,9 +7,6 @@ education:
   - course: PhD in Economics
     institution: University of Houston
     year: 2023 (expected)
-  - course: Bachelor of Science in Economics (Summa cum laude)
-    institution: Arizona State University, Arizona
-    year: 2017 (expected)
   
 email: ""
 interests:
@@ -23,9 +20,8 @@ role: Ph.D. Candidate in Economics
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, 
-  use "mailto:hhadah@uh.edu".
-  - icon: twitter
+  link: '#contact'
+- icon: twitter
   icon_pack: fab
   link: https://twitter.com/HHeddeh
 # - icon: google-scholar
