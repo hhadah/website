@@ -41,6 +41,6 @@
     weight = 70
   [[main]]
     name = "Working Papers"
-    url = "/WorkingPapers"
+    url = "content/WorkingPapers/"
     weight = 60
 
