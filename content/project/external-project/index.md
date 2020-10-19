@@ -1,43 +1,11 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Autism Spectrum Disorder"
-summary: "Investigating the pathogenesis and maintenance of Autism Spectrum disorder (ASD)"
-authors: []
-tags: ["asd"]
-categories: []
-date: 2020-08-30T13:36:11+02:00
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+date: "2016-04-27T00:00:00Z"
+external_link: http://example.org
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
+  caption: Photo by Toa Heftiba on Unsplash
+  focal_point: Smart
+summary: An example of linking directly to an external project website using `external_link`.
+tags:
+- Demo
+title: External Project
 ---
-
-Autism spectrum disorder (ASD) is the collective term for a number of neurodevelopmental disorders characterised by qualitative impairments in social interaction and communication, and a restricted range of activities. This research project uses various research approaches to investigate pathogenesis and maintenance of ASD and investigates the neuropeptide oxytocin as a potential treatment.
