@@ -37,3 +37,4 @@ title: "Democratic Institutions and Ethnic Favoritism: Evidence from sub-Saharan
 ### Abstract
 
 Ethnic favoritism impedes the economics growth of African country. This paper investigates the existence of ethnic favoritism in 21 sub-Saharan African countries. It also examines whether democratic institutions, through checks and balances, affect ethnic favoritism. Using the Demographic and Health surveys (DHS) from 21 African countries, and in line with the literature on ethnic favoritism, I found that ethnic favoritism exists in education, electrification, wealth, and infant mortality. I also found that democratic institutions curb ethnic favoritism.
+
