@@ -1,5 +1,5 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Ethnic favoritism impedes the economics growth of African country. This paper investigates the existence of ethnic favoritism in 21 sub-Saharan African countries. It also examines whether democratic institutions, through checks and balances, affect ethnic favoritism. Using the Demographic and Health surveys (DHS) from 21 African countries, and in line with the literature on ethnic favoritism, I found that ethnic favoritism exists in education, electrification, wealth, and infant mortality. I also found that democratic institutions curb ethnic favoritism.
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -20,10 +20,10 @@ publication_types:
 - "3"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+I found that ethnic favoritism exists in health, education and wealth. I also found strong evidence suggesting that democratic institutions curb a leader's ability to favor their own ethnic group.
 tags:
 - Source Themes
-title: An example preprint / working paper
+title: Democratic Institutions and Their Effect on Ethnic Favoritism. 
 url_code: '#'
 url_dataset: '#'
 url_pdf: http://arxiv.org/pdf/1512.04133v1
