@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: ""Hispanic Discrimination in the Marriage Market"
+title: "Hispanic Discrimination in the Marriage Market"
 authors: [Hussain Hadah]
 date: 2020-10-19T12:36:24-05:00
 doi: ""
