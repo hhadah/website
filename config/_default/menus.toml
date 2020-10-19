@@ -39,7 +39,7 @@
     name = "CV"
     url = "files/HussainHadahcv.pdf"
     weight = 60
-  [[main]]
+  [[main.main]]
     name = "Working Papers"
     url = "/WorkingPapers/"
     weight = 20
