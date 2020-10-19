@@ -20,10 +20,10 @@ publication_types:
 - "3"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-I found that ethnic favoritism exists in health, education and wealth. I also found strong evidence suggesting that democratic institutions curb a leader's ability to favor their own ethnic group.
+summary: I found that ethnic favoritism exists in health, education and wealth. I also found strong evidence suggesting that democratic institutions curb a leader's ability to favor their own ethnic group.
 tags:
 - Source Themes
-title: Democratic Institutions and Their Effect on Ethnic Favoritism. 
+title: Democratic Institutions and Their Effect on Ethnic Favoritism
 url_code: '#'
 url_dataset: '#'
 url_pdf: http://arxiv.org/pdf/1512.04133v1
