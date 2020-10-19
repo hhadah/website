@@ -40,8 +40,8 @@
     url = "files/HussainHadahcv.pdf"
     weight = 60
 
-[[main]]
+[[menu.main]]
     name = "Working Papers"
-    url = "/workingapers/"
+    url = "/workingpapers/"
     weight = 20
 
