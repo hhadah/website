@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Houston"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "houston.png"
+hero_media = "houston"
 
 [design.background]
   # Apply a background color, gradient, or image.
