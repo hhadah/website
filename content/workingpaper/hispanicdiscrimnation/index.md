@@ -3,7 +3,7 @@
 
 title: "Hispanic Discrimination in the Marriage Market"
 authors: [Hussain Hadah]
-date: 2020-10-19T12:36:24-05:00
+date:
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -3,7 +3,7 @@
 
 title: "Immigration and the Rise of Populism in Europe"
 authors: [Gael Compta, Hussain Hadah, Mehedi Hasan Oni]
-date: 2020-10-19T12:26:04-05:00
+date: 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
