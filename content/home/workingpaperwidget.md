@@ -67,9 +67,3 @@ subtitle = ""
  css_class = ""
 +++
 
-<<<<<<< HEAD
-=======
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
->>>>>>> 371e2241574fe80b1d3c13a553c18e3be00386a1
