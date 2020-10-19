@@ -10,16 +10,16 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
-projects:
-- internal-project
+#- name: Custom Link
+#  url: http://example.org
+#projects:
+#- internal-project
 publication: ""
 publication_short: ""
 publication_types:
 - "3"
 publishDate: " "
-slides: example
+#slides: example
 summary: I found that ethnic favoritism exists in health, education and wealth. I also found strong evidence suggesting that democratic institutions curb a leader's ability to favor their own ethnic group.
 tags:
 - Source Themes
