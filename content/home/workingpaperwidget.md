@@ -67,3 +67,5 @@ subtitle = ""
  css_class = ""
 +++
 
+<<<<<<< HEAD
+=======
