@@ -3,7 +3,7 @@
 
 title: "Effects of Gun Control Laws on Suicide"
 authors: [Hussain Hadah]
-date: 
+date: "2020-09-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

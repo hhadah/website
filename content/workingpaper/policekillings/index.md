@@ -3,7 +3,7 @@
 
 title: "Gun Laws and Police Killings in the United States"
 authors: [Gael Compta, Hussain Hadah]
-date: 
+date: "2020-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

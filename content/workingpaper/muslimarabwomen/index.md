@@ -3,7 +3,7 @@
 
 title: "Intergenerational Mobility and Assimilation of Muslim and Arab Women in the United States"
 authors: [Hussain Hadah]
-date: 
+date: "2020-0-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
