@@ -39,7 +39,7 @@
     url = "files/HussainHadahcv.pdf"
     weight = 70
     
-[[main]]
-    name = "Blog Posts"
-    url = "/post/"
-    weight = 80
+#[[main]]
+#    name = "Blog Posts"
+#    url = "/post/"
+#    weight = 80
