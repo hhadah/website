@@ -7,8 +7,12 @@ education:
   - course: PhD in Economics
     institution: University of Houston
     year: 2023 (expected)
+  - course: B.S. in Economics (Summa Cum Laude)
+    institution: Arizona State University
+    year: 2017
+    Minors: International Relations and Mathematics
   
-email: ""
+email: " "
 interests:
 - Applied Microeconomics
 - Labor Economics
