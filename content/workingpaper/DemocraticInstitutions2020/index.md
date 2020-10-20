@@ -22,7 +22,7 @@ publishDate: " "
 #slides: example
 summary: I found that ethnic favoritism exists in health, education and wealth. I also found strong evidence suggesting that democratic institutions curb a leader's ability to favor their own ethnic group.
 tags:
-- Source Themes
+# - Source Themes
 title: "Democratic Institutions and Ethnic Favoritism: Evidence from sub-Saharan Africa"
 #url_code: '#'
 #url_dataset: '#'
