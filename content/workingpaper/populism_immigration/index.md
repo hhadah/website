@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "In this paper, we study the effect of immigration on the rise of populism in 27 European countries. We use an the number of displaced Syrians as an instrument for refugees and asylum seekers that immigrated to Europe."
+abstract: "In this paper, we study the effect of immigration on the rise of populism in 27 European countries. We use the number of displaced Syrians as an instrument for refugees and asylum seekers that immigrated to Europe."
 
 # Summary. An optional shortened abstract.
 summary: ""
