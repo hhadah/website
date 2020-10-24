@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Hussain Hadah</title>
+    <link>/publication-type/0/</link>
+      <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Oct 2020 12:38:09 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Intergenerational Mobility and Assimilation of Muslim and Arab Women in the United States</title>
+      <link>/workingpaper/muslimarabwomen/</link>
+      <pubDate>Mon, 19 Oct 2020 12:38:09 -0500</pubDate>
+      <guid>/workingpaper/muslimarabwomen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>/publication/anotherone/</link>
+      <pubDate>Sun, 18 Oct 2020 23:08:04 -0500</pubDate>
+      <guid>/publication/anotherone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Gun Control Laws on Suicide</title>
+      <link>/workingpaper/gunsandsuicide/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/workingpaper/gunsandsuicide/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

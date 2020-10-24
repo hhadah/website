@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working Papers | Hussain Hadah</title>
+    <link>/workingpaper/</link>
+      <atom:link href="/workingpaper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Working Papers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Oct 2020 12:38:09 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png</url>
+      <title>Working Papers</title>
+      <link>/workingpaper/</link>
+    </image>
+    
+    <item>
+      <title>Intergenerational Mobility and Assimilation of Muslim and Arab Women in the United States</title>
+      <link>/workingpaper/muslimarabwomen/</link>
+      <pubDate>Mon, 19 Oct 2020 12:38:09 -0500</pubDate>
+      <guid>/workingpaper/muslimarabwomen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Gun Control Laws on Suicide</title>
+      <link>/workingpaper/gunsandsuicide/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/workingpaper/gunsandsuicide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Democratic Institutions and Ethnic Favoritism: Evidence from sub-Saharan Africa</title>
+      <link>/workingpaper/democraticinstitutions2020/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/workingpaper/democraticinstitutions2020/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Ethnic favoritism impedes the economics growth of African country. This paper investigates the existence of ethnic favoritism in 21 sub-Saharan African countries. It also examines whether democratic institutions, through checks and balances, affect ethnic favoritism. Using the Demographic and Health surveys (DHS) from 21 African countries, and in line with the literature on ethnic favoritism, I found that ethnic favoritism exists in education, electrification, wealth, and infant mortality. I also found that democratic institutions curb ethnic favoritism.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Immigration and the Rise of Populism in Europe</title>
+      <link>/workingpaper/populism_immigration/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/workingpaper/populism_immigration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gun Laws and Police Killings in the United States</title>
+      <link>/workingpaper/policekillings/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/workingpaper/policekillings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hispanic Discrimination in the Marriage Market</title>
+      <link>/workingpaper/hispanicdiscrimnation/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/workingpaper/hispanicdiscrimnation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

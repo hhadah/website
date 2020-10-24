@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mehedi Hasan Oni | Hussain Hadah</title>
+    <link>/author/mehedi-hasan-oni/</link>
+      <atom:link href="/author/mehedi-hasan-oni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mehedi Hasan Oni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png</url>
+      <title>Mehedi Hasan Oni</title>
+      <link>/author/mehedi-hasan-oni/</link>
+    </image>
+    
+    <item>
+      <title>Immigration and the Rise of Populism in Europe</title>
+      <link>/workingpaper/populism_immigration/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/workingpaper/populism_immigration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
