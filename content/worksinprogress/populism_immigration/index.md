@@ -49,7 +49,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Refugees flee across the Mediterranean in an iconic 2015 image from the UN Refugee Agency"
   focal_point: ""
   preview_only: false
 

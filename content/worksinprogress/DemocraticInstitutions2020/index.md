@@ -6,7 +6,7 @@ date: "2020-08-28T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 
+  caption: ""
 links:
 #- name: Custom Link
 #  url: http://example.org

@@ -49,7 +49,9 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: 'Image credit: [**Carolyn Kaster/AP Photo**](https://twitter.com/ckaster?lang=en)'
+  focal_point: ""
+  preview_only: false
   focal_point: ""
   preview_only: false
 
