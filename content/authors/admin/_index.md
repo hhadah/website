@@ -4,9 +4,12 @@ authors:
 bio: I am a Ph.D. candidate in Economics at the University of Houston. My reserach interest is in Applied Microeconomics primarily in labor and development economics.
 education:
   courses:
-  - course: PhD in Economics
+  - course: Economics PhD Candidate
     institution: University of Houston
     year: 2023 (expected)
+  - course: M.A. Economics
+    institution: University of Houston
+    year: 2020
   - course: B.S. in Economics (Summa Cum Laude)
     institution: Arizona State University
     year: 2017
