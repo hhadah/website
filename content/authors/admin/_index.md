@@ -15,7 +15,7 @@ education:
     year: 2017
     Minors: International Relations and Mathematics
   
-email: " "
+email: "mailto:hhadah@uh.edu"
 interests:
 - Applied Microeconomics
 - Labor Economics
