@@ -9,7 +9,7 @@ education:
     year: 2023 (expected)
   - course: M.A. Economics
     institution: University of Houston
-    year: 2020
+    year: 2020 (expected)
   - course: B.S. in Economics (Summa Cum Laude)
     institution: Arizona State University
     year: 2017
