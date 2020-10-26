@@ -15,7 +15,7 @@ education:
     year: 2017
     Minors: International Relations and Mathematics
   
-email: " "
+email: "mailto:hussainhadah@gmail.com"
 interests:
 - Applied Microeconomics
 - Labor Economics
