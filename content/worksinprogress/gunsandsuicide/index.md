@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Effects of Gun Control Laws on Suicide"
-authors: [Hussain Hadah]
+authors: [Hussain Hadah, Gael Compta]
 date: "2020-09-15T00:00:00Z"
 doi: ""
 
