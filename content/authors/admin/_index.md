@@ -44,4 +44,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate in Economics at the University of Houston. My reserach interest is in Applied Microeconomics primarily in labor and development economics.
+I am a Ph.D. candidate in Economics at the University of Houston. My research interest is in Applied Microeconomics primarily in labor and development economics.
+
+![A picture of my dog](Bill.jpeg)
