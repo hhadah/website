@@ -1,8 +1,12 @@
 ---
+title: Teaching
+permalink: /teaching/
 header:
-  caption: ""
-  image: ""
-layout: docs
-title: Courses
 ---
+
+Courses I am teaching at the University of Houston
+
+### Undergraduate
+
+*Microeconomic Principles*, ECON 2304. ([Syllabus]( )
 
