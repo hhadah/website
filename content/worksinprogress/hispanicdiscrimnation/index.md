@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hispanic Discrimination in the Marriage Market"
+title: "The Impact of Hispanic Last Names and Identity on Labor Market Outcomes"
 authors: [Hussain Hadah]
 date: "2020-02-20T00:00:00Z"
 doi: ""
