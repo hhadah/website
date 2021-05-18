@@ -18,7 +18,7 @@ publication_types:
 - "3"
 publishDate: " "
 #slides: example
-summary: I find that ethnic favoritism exists in health, education and wealth. I also find strong evidence suggesting that democratic institutions curb a leader's ability to favor their own ethnic group.
+summary: What is the effect of democracy on ethnic favoritism? I estimate the relationship between co-ethnicity and five outcomes of public good provision – education, infant health, wealth, access to clean drinking water and access to electricity – using data from twenty-one Sub-Saharan African countries. Following previous research, I use variation in co-ethnicity across ethnic groups and over time. I first estimate the relationship between these five outcomes and co-ethnicity in the full sample, and then split the analysis between anocracies and democracies. I find mixed evidence of ethnic favoritism in the full sample. I find more evidence of co-ethnicities within both democracies and anocracies, but I do not find that democracy significantly impedes ethnic favoritism. 
 tags:
 # - Source Themes
 title: "Democratic Institutions and Ethnic Favoritism: Evidence from sub-Saharan Africa"
@@ -34,5 +34,4 @@ title: "Democratic Institutions and Ethnic Favoritism: Evidence from sub-Saharan
 
 ### Abstract
 
-Ethnic favoritism impedes the economics growth of African country. This paper investigates the existence of ethnic favoritism in 21 sub-Saharan African countries. It also examines whether democratic institutions, through checks and balances, affect ethnic favoritism. Using the Demographic and Health surveys (DHS) from 21 African countries, and in line with the literature on ethnic favoritism, I found that ethnic favoritism exists in education, electrification, wealth, and infant mortality. I also found that democratic institutions curb ethnic favoritism.
-
+What is the effect of democracy on ethnic favoritism? I estimate the relationship between co-ethnicity and five outcomes of public good provision – education, infant health, wealth, access to clean drinking water and access to electricity – using data from twenty-one Sub-Saharan African countries. Following previous research, I use variation in co-ethnicity across ethnic groups and over time. I first estimate the relationship between these five outcomes and co-ethnicity in the full sample, and then split the analysis between anocracies and democracies. I find mixed evidence of ethnic favoritism in the full sample. I find more evidence of co-ethnicities within both democracies and anocracies, but I do not find that democracy significantly impedes ethnic favoritism. 

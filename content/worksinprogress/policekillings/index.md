@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "We study the effect of different gun laws and on duty partner requirements on police killings. We take  advantage of the variation in gun laws and on duty requirements across states and police department jurisdiction."
+abstract: "We study the effect of different gun laws and on-duty partner requirements on police killings. We take  advantage of the variation in gun laws and on-duty requirements across states and police department jurisdiction."
 
 # Summary. An optional shortened abstract.
 summary: ""
