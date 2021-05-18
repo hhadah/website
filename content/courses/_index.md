@@ -4,9 +4,9 @@ permalink: /teaching/
 header:
 ---
 
-Courses I am teaching at the University of Houston
+My courses at the University of Houston
 
 ### Undergraduate
 
-*Microeconomic Principles*, ECON 2304. ([Syllabus]( ))
+*Microeconomic Principles*, ECON 2304. ([Syllabus]())
 
