@@ -1,9 +1,9 @@
 {
-    "path": "~/Documents/GiT/website/content",
+    "path": "~/Documents/GiT/website/content/worksinprogress/DemocraticInstitutions2020",
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": true
+            "ascending": false
         }
     ]
 }

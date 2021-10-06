@@ -67,3 +67,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+### Abstract
+
+We study the effect of gun controls and waiting periods on suicides.

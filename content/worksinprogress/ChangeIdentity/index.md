@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Impact of Hispanic Last Names and Identity on Labor Market Outcomes"
+title: "The Causes of a Change in a Person's Identity"
 authors: [Hussain Hadah]
-date: "2020-02-20T00:00:00Z"
+date: "2021-009-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -69,4 +69,4 @@ slides: ""
 ---
 
 ### Abstract
-In this paper, I compare the children of inter-ethnic marriages to study the impact of having a Hispanic last name. While males born to Hispanic father-White mothers earn less than those born to White father-Hispanic mothers, the gap could be completely explained by educational differences. I also study the effect of identifying as Hispanic on earnings. I find that men that identify as Hispanic earn significantly less than those that do not, even after controlling for educational differences. 
+In this paper, I study the causes of a change in a person's identity. I also investigate whether a change in identity affects labor and marriage markets outcomes.
