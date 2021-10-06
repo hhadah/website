@@ -22,7 +22,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "We study the effect of gun controls and waiting periods on suicides."
 
 tags: []
 categories: []
@@ -67,7 +67,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-### Abstract
-
-We study the effect of gun controls and waiting periods on suicides.

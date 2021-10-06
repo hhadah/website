@@ -3,11 +3,11 @@
 
 title: "The Causes of a Change in a Person's Identity"
 authors: [Hussain Hadah]
-date: "2021-009-20T00:00:00Z"
+date: "2021-09-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-19T12:36:24-05:00
+publishDate: 2021-09-20T12:36:24-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publication_short: ""
 abstract: " "
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "In this paper, I study the causes of a change in a person's identity. I also investigate whether a change in identity affects labor and marriage markets outcomes."
 
 tags: []
 categories: []
@@ -68,5 +68,3 @@ projects: []
 slides: ""
 ---
 
-### Abstract
-In this paper, I study the causes of a change in a person's identity. I also investigate whether a change in identity affects labor and marriage markets outcomes.
