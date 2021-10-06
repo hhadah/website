@@ -22,7 +22,7 @@ publication_short: ""
 abstract: " "
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "In this paper, I study the causes of a change in a person's identity. I also investigate whether a change in identity affects labor and marriage markets outcomes."
 
 tags: []
 categories: []
@@ -68,5 +68,3 @@ projects: []
 slides: ""
 ---
 
-### Abstract
-In this paper, I study the causes of a change in a person's identity. I also investigate whether a change in identity affects labor and marriage markets outcomes.
