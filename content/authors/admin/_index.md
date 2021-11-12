@@ -13,9 +13,6 @@ education:
 
   - course: B.S. in Economics (Summa Cum Laude)
     minors: International Relations and Mathematics
-
-  - course: B.S. in Economics (Summa Cum Laude)
-    minors: International Relations and Mathematics
     institution: Arizona State University
     year: 2017
   
