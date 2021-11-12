@@ -10,7 +10,11 @@ education:
   - course: M.A. Economics
     institution: University of Houston
     year: 2020
+
   - course: B.S. in Economics (Summa Cum Laude)
+    minors: International Relations and Mathematics
+
+  - course: B.S. in Economics (Summa Cum Laude) \\
     minors: International Relations and Mathematics
     institution: Arizona State University
     year: 2017
