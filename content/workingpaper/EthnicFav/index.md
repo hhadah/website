@@ -4,7 +4,9 @@ date: 2021-11-14
 research_type: 
 - journal-article
 links:
+<<<<<<< HEAD
 - name: Paper
+- name: Preprint
   url: HussainHadahEthFav.pdf
   icon: far fa-file-pdf
   local: true
@@ -32,6 +34,14 @@ citation: >-
 notebook]() - [GitHub
 repository]() -
 -->
+
+## Important links
+
+- [Paper (preprint)](HussainHadahEthFav.pdf)
+# - [Appendix (preprint)](chaudhry-dotson-heiss-who-cares-crackdowns-appendix.pdf)
+# - [Statistical analysis notebook](https://stats.andrewheiss.com/who-cares-about-crackdowns/)
+# - [GitHub repository](https://github.com/andrewheiss/who-cares-about-crackdown)
+# - [Experiment preregistration](https://osf.io/hsbyd) (research question #2)
 
 ## Abstract
 
