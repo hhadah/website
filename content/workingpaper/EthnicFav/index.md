@@ -33,15 +33,6 @@ notebook]() - [GitHub
 repository]() -
 -->
 
-## Important links
-
-- [Paper (preprint)](HussainHadahEthFav.pdf)
-<!--
-- [Appendix (preprint)](chaudhry-dotson-heiss-who-cares-crackdowns-appendix.pdf)
-- [Statistical analysis notebook](https://stats.andrewheiss.com/who-cares-about-crackdowns/)
-- [GitHub repository](https://github.com/andrewheiss/who-cares-about-crackdown)
-- [Experiment preregistration](https://osf.io/hsbyd) (research question #2)
--->
 ## Abstract
 
 What is the effect of democracy on ethnic favoritism? I estimate the relationship between co-ethnicity and five outcomes of public good provision – education, infant health, wealth, access to clean drinking water and access to electricity – using data from twenty-one Sub-Saharan African countries. Following previous research, I use variation in co-ethnicity across ethnic groups and over time. I first estimate the relationship between these five outcomes and co-ethnicity in the full sample and then split the analysis between anocracies and democracies. I find mixed evidence of ethnic favoritism in the full sample. I find more evidence of co-ethnicities within both democracies and anocracies, but I do not find that democracy significantly impedes ethnic favoritism. 
