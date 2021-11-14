@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hello World"
+title: " "
 subtitle: ""
 summary: ""
 authors: []
