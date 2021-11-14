@@ -5,7 +5,6 @@ research_type:
 - journal-article
 links:
 - name: Paper
-- name: Preprint
   url: HussainHadahEthFav.pdf
   icon: far fa-file-pdf
   local: true
