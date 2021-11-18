@@ -1,9 +1,5 @@
 {
-<<<<<<< Updated upstream
-    "path": "~/Documents/GiT/website/content/authors/admin",
-=======
-    "path": "~/Documents/GiT/website/content/workingpaper",
->>>>>>> Stashed changes
+    "path": "~/Documents/GiT/website/content/post",
     "sortOrder": [
         {
             "columnIndex": 2,
