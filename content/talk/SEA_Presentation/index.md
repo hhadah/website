@@ -1,35 +1,36 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
+abstract: What is the effect of democracy on ethnic favoritism? I estimate the relationship between co-ethnicity and five outcomes of public good provision – education, infant health, wealth, access to clean drinking water and access to electricity – using data from twenty-one Sub-Saharan African countries. Following previous research, I use variation in co-ethnicity across ethnic groups and over time. I first estimate the relationship between these five outcomes and co-ethnicity in the full sample and then split the analysis between anocracies and democracies. I find mixed evidence of ethnic favoritism in the full sample. I find more evidence of co-ethnic targeting when comparing within democracies only and within anocracies only. 
+
 address:
-  city: Stanford
+  city: Houston
   country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  postcode: "77002"
+  region: Texas
+  street: 
 all_day: false
-authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Academic Theme Conference
-event_url: https://example.org
+authors: [Hussain Hadah]
+date: "2021-11-201T13:00:00Z"
+date_end: "2021-11-201T13:00:00Z"
+event: Southern Economic Association
+event_url: https://www.southerneconomic.org/session-details/?conferenceId=7&eventId=3353
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ' '
   focal_point: Right
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-location: Source Themes HQ
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
+# location: Source Themes HQ
 math: true
 projects:
 - internal-project
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-11-18T00:00:00Z"
 slides: example
-summary: An example talk using Academic's Markdown slides feature.
+summary: The slides to my presentation at the Southern Economic Association conference in Houston.
 tags: []
-title: Example Talk
+title: Southern Economic Association Presentation
 url_code: ""
 url_pdf: ""
 url_slides: ""
