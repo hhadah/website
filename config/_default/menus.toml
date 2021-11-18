@@ -45,10 +45,10 @@
     url = "files/HussainHadahcv.pdf"
     weight = 80
     
-[[main]]
-    name = "Talks"
-    url = "/talk/"
-    weight = 90
+#[[main]]
+#    name = "Talks"
+#    url = "/talk/"
+#    weight = 90
     
 [[main]]
   name = "Contact"
