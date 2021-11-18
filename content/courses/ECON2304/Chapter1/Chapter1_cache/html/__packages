@@ -1,0 +1,8 @@
+base
+dplyr
+data.table
+fixest
+modelsummary
+kableExtra
+ggplot2
+hrbrthemes
