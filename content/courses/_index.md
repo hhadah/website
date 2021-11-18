@@ -8,5 +8,5 @@ My courses at the University of Houston
 
 ### Undergraduate
 
-*Microeconomic Principles*, ECON 2304. ([Syllabus]())
+*Microeconomic Principles*, ECON 2304. ([Syllabus](ECON2304_Summer2021_Syllabus.pdf))
 
