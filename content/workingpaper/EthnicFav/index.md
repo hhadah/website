@@ -8,9 +8,15 @@ links:
   url: HussainHadahEthFav.pdf
   icon: far fa-file-pdf
   local: true
+<<<<<<< HEAD
   
 - name: Slides (HTML)
   url: 'https://hhadah.github.io/SEA_Talk/HussainHadah_SEA_Presentation.html'
+=======
+links:
+  - name: Slides (HTML)
+    url: 'https://hhadah.github.io/SEA_Talk/HussainHadah_SEA_Presentation.html'
+>>>>>>> 335a44f1f5e55a72ddb09428b843eb74bca8ab90
     
 # - name: Final version
 #   url: https://doi.org/10.1111/1758-5899.12984
