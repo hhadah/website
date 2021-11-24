@@ -358,6 +358,7 @@ name: app
 
 
 ```{r gen_pdf, include = FALSE, cache = FALSE, eval = FALSE}
+# https://hhadah.github.io/website/blob/master/content/workingpaper/EthnicFav/SEA_Talk/HussainHadah_SEA_Presentation.html
 infile = list.files(path = "/Users/hhadah/Dropbox/EthnicFav copy/Presentation_SEA", pattern = '.html')
 pagedown::chrome_print(input = infile, timeout = 100)
 ```
