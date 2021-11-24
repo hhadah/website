@@ -26,6 +26,7 @@ citation: >-
 # Important links
 
 - [Paper](HussainHadahEthFav.pdf)
+- [Slides](https://hhadah.github.io/SEA_Talk/HussainHadah_SEA_Presentation.html)
 <!--
 - [Appendix (preprint)]()
 - [Statistical analysis
