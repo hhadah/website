@@ -21,7 +21,8 @@ links:
 #- name: Data
 # url: "#data-and-code"
 # icon: fas fa-table
-citation: [Hussain Hadah](http://www.hussainhadah.com/), "Democracy and Ethnic Favoritism: Evidence from Sub-Saharan Africa,"
+# citation:
+# [Hussain Hadah](http://www.hussainhadah.com/), "Democracy and Ethnic Favoritism: Evidence from Sub-Saharan Africa,"
 ---
 
 &nbsp;
