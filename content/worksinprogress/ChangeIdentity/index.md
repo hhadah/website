@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Causes of a Change in a Person's Identity"
+title: "The Change in Hispanic Identity Across Generations"
 authors: [Hussain Hadah]
 date: "2021-09-20T00:00:00Z"
 doi: ""
