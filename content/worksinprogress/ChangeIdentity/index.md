@@ -41,7 +41,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-#url_slides: https://hhadah.github.io/IdentityPres_Fall2021/HussainHadah_Identity_PresentationFall2021.html
+url_slides:
 url_source:
 url_video:
 
