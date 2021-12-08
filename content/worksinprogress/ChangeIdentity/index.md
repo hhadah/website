@@ -35,7 +35,7 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
-z
+
 url_pdf:
 url_code:
 url_dataset:
