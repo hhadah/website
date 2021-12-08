@@ -36,6 +36,11 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
+- name: Slides
+  url: https://hhadah.github.io/IdentityPres_Fall2021/HussainHadah_Identity_PresentationFall2021.html
+  icon_pack: far
+  icon: fa-projector
+
 url_pdf:
 url_code:
 url_dataset:
