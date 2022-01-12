@@ -22,4 +22,4 @@ weight: 1
 
 # Slides
 
-1. Introduction \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.html)\]
+1. Introduction \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.pdf) | [**.Rmd**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.Rmd)\]
