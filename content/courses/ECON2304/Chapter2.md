@@ -35,18 +35,6 @@ knit: (function(inputFile, encoding) {
  })
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-```{r, cache=FALSE, message=FALSE, warning=FALSE, include=FALSE}
-## Load and install the packages that we'll be using today
-if (!require("pacman")) install.packages("pacman")
-pacman::p_load(tictoc, parallel, pbapply, future, future.apply, furrr, RhpcBLASctl, memoise, here, foreign, mfx, tidyverse, hrbrthemes, estimatr, ivreg, fixest, sandwich, lmtest, margins, vtable, broom, modelsummary, stargazer, fastDummies)
-## My preferred ggplot2 plotting theme (optional)
-theme_set(hrbrthemes::theme_ipsum())
-```
-
 # Introduction
 
 Economics, like other sciences, has its own language. Economists deal and work with supply, demand, elasticity, ect. In this chapter, you will learn the language used in economics. This chapter will also allow you to use what we work on in economics to think and look at the world from the view point of an economist.
@@ -77,7 +65,8 @@ In this model, firms and households interact with each other in two types of mar
 
 1. _Markets for goods goods and services_: household buy the goods (cars) and services (banking) and firms (banks and car manufacturers) sell these goods and services.
 2. _Markets for the factors of production_: In this case, households are sellers and firms are buyers. People provide their time to work (sell) for income that a firm would pay (buy)
-![](images/CircularFlow.png)
+
+knitr::include_graphics("images/CircularFlow.png")
 
 The outer loop of the diagram represents the flow of money/dollars. The inner loop represents the flows of inputs and outputs. For example, let us start by assuming the a person has money and they want to spend it on buying donuts from Shipley Do-Nuts. They go to the store, give the money in return for a donut---this is the market for goods and services. The money becomes revenue for Shipley Do-Nuts. The money the store just got will be paid on the factors of production. Shipley Do-Nuts needs to pay rent, buy ingredients to make donuts and hire people to make the donuts---this is the market for factors of production. The money the store spends will go back to households and so on...
 
@@ -85,13 +74,13 @@ The outer loop of the diagram represents the flow of money/dollars. The inner lo
 
 Most economic models are math intensive. In this section you will learn about one of the simplest models, the Production Possibilities Frontier (PPF). Assume the economy produces two goods. These goods are computers and cars. The PPP graph can tell us the many combination of cars and computers that the economy can produce given the available technology and inputs of production.
 
-![](images/ppf1.png)
+knitr::include_graphics("images/ppf1.png")
 
 In figure 2, all the possible production combinations inside the frontier curve. Point D is a possible combination that leads to the production of 300 cars and 1,000 computers. Point D is an inefficient outcome because we can produce more. Points A, B, E and F are all possible combination that are efficient. The available technology and inputs do not allow this economy to produce at point C. 
 
 The frontier curve can shift if an advancement in technology or an increase in the production inputs occurred. Figure 3 is an example of this. In this figure, the computer industry experienced a technological advancement. The economy is now able to produce more computer for any given numbers of cars. Point G that was not possible in the old economy, is now possible.
 
-![](images/ppf2.png)
+knitr::include_graphics("images/ppf2.png")
 
 ## Microeconomics and Macroeconomics
 
