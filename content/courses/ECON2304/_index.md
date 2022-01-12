@@ -18,8 +18,9 @@ type: book
 weight: 1
 ---
 
-# Syllabus
-
 # Slides
 
 1. Introduction \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.pdf) | [**.Rmd**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.Rmd)\]
+
+# Syllabus
+
