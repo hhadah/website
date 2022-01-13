@@ -20,6 +20,7 @@ weight: 1
 
 # Slides
 
+- Syllabus \[[**.pdf**](https://hhadah.github.io/MicroSlides/Syllabus/ECON2302-detailed_syllabus_spring-2022.pdf)\]
 1. Introduction \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.pdf) | [**.Rmd**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.Rmd)\]
 
 # Syllabus
