@@ -33,9 +33,13 @@ Days & Times: Tuesdays and Thursdays 5:30PM - 7:00PM
 Room: AH 110
 
 <span style="text-decoration:underline">Instructor</span>: Hussain Hadah
+
 <span style="text-decoration:underline">Office location</span>: Science Building 230-4
+
 <span style="text-decoration:underline">Student hours</span>: By Appointment
+
 <span style="text-decoration:underline">Email</span>: hhadah@uh.edu
+
 <span style="text-decoration:underline">Final exam</span>: Tuesday, May 10 from 5 to 8 PM
 
 ## Course Overview: 
