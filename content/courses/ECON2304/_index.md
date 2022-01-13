@@ -24,13 +24,10 @@ weight: 1
 
 # Syllabus
 
-Spring 2022
-University of Houston
-Department of Economics
-PRINCIPLES OF MICROECONOMICS
-ECON 2302-5
-Days & Times: Tuesdays and Thursdays 5:30PM - 7:00PM
-Room: AH 110
+
+<span style="text-decoration:underline">Days & Times</span>: Tuesdays and Thursdays 5:30PM - 7:00PM
+
+<span style="text-decoration:underline">Room</span>: AH 110
 
 <span style="text-decoration:underline">Instructor</span>: Hussain Hadah
 
