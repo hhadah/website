@@ -21,7 +21,8 @@ weight: 1
 # Slides
 
 - Syllabus \[[**.pdf**](https://hhadah.github.io/MicroSlides/Syllabus/ECON2302-detailed_syllabus_spring-2022.pdf)\]
-1. Introduction \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.pdf) | [**.Rmd**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.Rmd)\]
+1. Introduction \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.pdf)\]
+2. Thinking Like an Economist \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch2/Ch2.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch2/Ch2.pdf)\]
 
 # Syllabus
 
@@ -183,7 +184,7 @@ Student Health Center: https://www.uh.edu/healthcenter/
 
 | **Week**                                                                      | **Dates** | **Topics and Exams**                                                           |                                                                               | **MindTap Homework** |
 | ----------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | -------------------- |
-| Week 1                                                                        | Thu.      | 20-Jan                                                                         | Chapters 1 & 2: Ten Principles of Microeconomics &                            |                      |  |
+| Week 1                                                                        | Tues & Thu.      | 19-Jan & 20-Jan                                                                         | Intro, Chapters 1 & 2: Ten Principles of Microeconomics &                            |                      |  |
 |                                                                               |           | Thinking like an Economist                                                     |                                                                               |                      |
 | Sun.                                                                          | 23-Jan    | Homework Due                                                                   |                                                                               | Ch 1 & Ch 2          |
 |                                                                               |           |                                                                                |                                                                               |                      |
