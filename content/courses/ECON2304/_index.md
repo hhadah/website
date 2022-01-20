@@ -22,7 +22,8 @@ weight: 1
 
 - Syllabus \[[**.pdf**](https://hhadah.github.io/MicroSlides/Syllabus/ECON2302-detailed_syllabus_spring-2022.pdf)\]
 1. Introduction \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.pdf)\]
-2. Thinking Like an Economist \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch2/Ch2.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch2/Ch2.pdf)\]
+2. The Ten Principles of Economics \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch1/Ch1.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch2/Ch2.pdf)\]
+3. Thinking Like an Economist \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch2/Ch2.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch2/Ch2.pdf)\]
 
 # Syllabus
 
