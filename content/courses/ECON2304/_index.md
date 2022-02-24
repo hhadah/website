@@ -30,6 +30,12 @@ weight: 1
  \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch4/Ch4.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch4/Ch4.pdf)\]
 6. Elasticity and Its Application
  \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch5/Ch5.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch5/Ch5.pdf)\]
+ 
+7. Supply, Demand and Government Policies
+ \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch6/Ch6.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch6/Ch6.pdf)\]
+
+8. Consumers, Producers, and the Efficiency of Markets
+ \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch7/Ch7.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch5/Ch5.pdf)\]
 
 # Syllabus
 
