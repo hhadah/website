@@ -21,6 +21,7 @@ weight: 1
 # Slides
 
 - Syllabus \[[**.pdf**](https://hhadah.github.io/MicroSlides/Syllabus/ECON2302_detailed_syllabus_spring_2022.pdf)\]
+
 1. Introduction \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.pdf)\]
 2. The Ten Principles of Economics \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch1/Ch1.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch1/Ch1.pdf)\]
 3. Thinking Like an Economist \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch2/Ch2.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch2/Ch2.pdf)\]
@@ -39,6 +40,12 @@ weight: 1
  
 9. The Costs of Taxation
  \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch8/Ch8.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch8/Ch8.pdf)\]
+ 
+10. International Trade
+ \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch9/Ch9.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch9/Ch9.pdf)\]
+ 
+11. Externalities
+ \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch10/Ch10.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch10/Ch10.pdf)\]
 
 # Syllabus
 
