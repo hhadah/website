@@ -9,8 +9,8 @@ links:
   icon: far fa-file-pdf
   local: true
   
-- name: Slides (HTML)
-  url: 'https://hhadah.github.io/SEA_Talk/HussainHadah_SEA_Presentation.html'
+#- name: Slides (HTML)
+#  url: 'https://hhadah.github.io/SEA_Talk/HussainHadah_SEA_Presentation.html'
     
 # - name: Final version
 #   url: https://doi.org/10.1111/1758-5899.12984
