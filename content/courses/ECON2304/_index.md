@@ -53,7 +53,7 @@ weight: 1
 13. The Costs of Production
  \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch13/Ch13.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch13/Ch13.pdf)\]
  
-14. Firms in Competitive Markets \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch13/Ch14.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch13/Ch14.pdf)\]
+14. Firms in Competitive Markets \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch14/Ch14.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch14/Ch14.pdf)\]
  
 # Syllabus
 
