@@ -54,7 +54,10 @@ weight: 1
  \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch13/Ch13.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch13/Ch13.pdf)\]
 # Syllabus
 
+14. Firms in Competitive Markets
 
+ \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch13/Ch14.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch13/Ch14.pdf)\]
+# Syllabus
 <span style="text-decoration:underline">Days & Times</span>: Tuesdays and Thursdays 5:30PM - 7:00PM
 
 <span style="text-decoration:underline">Room</span>: AH 110
