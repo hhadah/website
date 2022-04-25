@@ -28,7 +28,7 @@ role: Ph.D. Candidate in Economics
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'hhadah@uh.edu'
+  link: 'mailto:hhadah@uh.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/HHeddeh
