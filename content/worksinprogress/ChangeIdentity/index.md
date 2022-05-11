@@ -41,7 +41,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: "https://hhadah.github.io/Spring2022Presentation/HussainHadah_Spring2022.html#1"
+url_slides: https://hhadah.github.io/Spring2022Presentation/HussainHadah_Spring2022.html
 url_source:
 url_video:
 
