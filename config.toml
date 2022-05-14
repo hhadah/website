@@ -14,14 +14,14 @@ baseurl = "https://hussainhadah.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "Hussain Hadah &copy; 2020"
+copyright = "Hussain Hadah &copy; 2022"
 
 ############################
 ## Advanced options below ##
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "hugo-academic"
+theme = "hugo-xmin"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
