@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Hussain Hadah</title>
-    <link>/categories/</link>
-      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hussainhadah.com/categories/</link>
+      <atom:link href="https://hussainhadah.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hussain Hadah © 2022</copyright>
     <image>
-      <url>/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png</url>
+      <url>https://hussainhadah.com/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>/categories/</link>
+      <link>https://hussainhadah.com/categories/</link>
     </image>
     
   </channel>

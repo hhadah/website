@@ -33,7 +33,7 @@
   <meta name="description" content="Ph.D. Candidate in Economics">
 
   
-  <link rel="alternate" hreflang="en-us" href="/workingpaper/">
+  <link rel="alternate" hreflang="en-us" href="https://hussainhadah.com/workingpaper/">
 
   
 
@@ -41,7 +41,7 @@
   
   
   
-  <meta name="theme-color" content="#3f51b5">
+  <meta name="theme-color" content="#2962ff">
   
 
   
@@ -219,6 +219,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-233405867-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-233405867-1');
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -233,7 +271,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/workingpaper/">
+  <link rel="canonical" href="https://hussainhadah.com/workingpaper/">
 
   
   
@@ -252,12 +290,12 @@
   <meta property="twitter:creator" content="@HHeddeh">
   
   <meta property="og:site_name" content="Hussain Hadah">
-  <meta property="og:url" content="/workingpaper/">
+  <meta property="og:url" content="https://hussainhadah.com/workingpaper/">
   <meta property="og:title" content="Working Papers | Hussain Hadah">
-  <meta property="og:description" content="Ph.D. Candidate in Economics"><meta property="og:image" content="/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Ph.D. Candidate in Economics"><meta property="og:image" content="https://hussainhadah.com/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://hussainhadah.com/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-10-19T12:38:09-05:00">
+    <meta property="og:updated_time" content="2021-11-14T00:00:00&#43;00:00">
   
 
   
@@ -401,7 +439,117 @@
         
 
         <li class="nav-item">
+          <a class="nav-link " href="/worksinprogress/"><span>Works in Progress</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
           <a class="nav-link  active" href="/workingpaper/"><span>Working Papers</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/courses/"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/post/"><span>Blog Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/HussainHadahcv.pdf"><span>CV</span></a>
         </li>
 
         
@@ -431,28 +579,6 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/#contact"><span>Contact</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/files/HussainHadahcv.pdf"><span>CV</span></a>
         </li>
 
         
@@ -538,66 +664,10 @@
     
     
     <div>
-      <h2><a href="/workingpaper/muslimarabwomen/" >Intergenerational Mobility and Assimilation of Muslim and Arab Women in the United States</a></h2>
+      <h2><a href="/workingpaper/ethnicfav/" >Democracy and Ethnic Favoritism: Evidence from Sub-Saharan Africa</a></h2>
       <div class="article-style">
         
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/workingpaper/gunsandsuicide/" >Effects of Gun Control Laws on Suicide</a></h2>
-      <div class="article-style">
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/workingpaper/democraticinstitutions2020/" >Democratic Institutions and Ethnic Favoritism: Evidence from sub-Saharan Africa</a></h2>
-      <div class="article-style">
-        
-          I found that ethnic favoritism exists in health, education and wealth. I also found strong evidence suggesting that democratic institutions curb a leader's ability to favor their own ethnic group.
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/workingpaper/populism_immigration/" >Immigration and the Rise of Populism in Europe</a></h2>
-      <div class="article-style">
-        
-          In this paper, we study the effect of immigration on the rise of populism in 27 European countries. We use an the number of displaced Syrians as an instrument for refugees and asylum seekers that immigrated to Europe.
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/workingpaper/policekillings/" >Gun Laws and Police Killings in the United States</a></h2>
-      <div class="article-style">
-        
-          We study the effect of different gun laws and on duty partner requirements on police killings. We take  advantage of the variation in gun laws and on duty requirements across states and police department jurisdiction.
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/workingpaper/hispanicdiscrimnation/" >Hispanic Discrimination in the Marriage Market</a></h2>
-      <div class="article-style">
-        
-           
+          What is the effect of democracy on ethnic favoritism? I estimate the relationship between co-ethnicity and five outcomes of public good provision – education, infant health, wealth, access to clean drinking water and access to electricity – using …
         
       </div>
     </div>
@@ -725,19 +795,9 @@
   <div class="container">
     <footer class="site-footer">
   
-  <p class="powered-by">
-    
-      <a href="/privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="/terms/">Terms</a>
-    
-  </p>
-  
 
   <p class="powered-by">
-    
+    Hussain Hadah © 2022
   </p>
 
   

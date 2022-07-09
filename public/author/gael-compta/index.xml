@@ -2,29 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gael Compta | Hussain Hadah</title>
-    <link>/author/gael-compta/</link>
-      <atom:link href="/author/gael-compta/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hussainhadah.com/author/gael-compta/</link>
+      <atom:link href="https://hussainhadah.com/author/gael-compta/index.xml" rel="self" type="application/rss+xml" />
     <description>Gael Compta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hussain Hadah © 2022</copyright><lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png</url>
+      <url>https://hussainhadah.com/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png</url>
       <title>Gael Compta</title>
-      <link>/author/gael-compta/</link>
+      <link>https://hussainhadah.com/author/gael-compta/</link>
     </image>
     
     <item>
-      <title>Immigration and the Rise of Populism in Europe</title>
-      <link>/workingpaper/populism_immigration/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/workingpaper/populism_immigration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gun Laws and Police Killings in the United States</title>
-      <link>/workingpaper/policekillings/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/workingpaper/policekillings/</guid>
+      <title>Effects of Gun Control Laws on Suicide</title>
+      <link>https://hussainhadah.com/worksinprogress/gunsandsuicide/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://hussainhadah.com/worksinprogress/gunsandsuicide/</guid>
       <description></description>
     </item>
     

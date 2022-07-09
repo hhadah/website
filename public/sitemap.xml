@@ -3,283 +3,188 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://hussainhadah.com/courses/econ2304/</loc>
+    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/example/</loc>
+    <loc>https://hussainhadah.com/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://hussainhadah.com/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://hussainhadah.com/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/0/</loc>
+    <loc>https://hussainhadah.com/content/</loc>
+    <lastmod>2022-07-01T15:49:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hussainhadah.com/content/workingpaper/my-project-name/</loc>
+    <lastmod>2022-07-01T15:49:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hussainhadah.com/content/workingpaper/ethnicfavoritism/</loc>
+    <lastmod>2022-07-01T15:47:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hussainhadah.com/courses/econ2304/chapter1/</loc>
+    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hussainhadah.com/courses/</loc>
+    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hussainhadah.com/publication-type/2/</loc>
+    <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hussainhadah.com/workingpaper/ethnicfav/</loc>
+    <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hussainhadah.com/publication_types/</loc>
+    <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hussainhadah.com/workingpaper/</loc>
+    <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hussainhadah.com/publication-type/3/</loc>
+    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hussainhadah.com/authors/</loc>
+    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hussainhadah.com/author/hussain-hadah/</loc>
+    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hussainhadah.com/worksinprogress/changeidentity/</loc>
+    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hussainhadah.com/worksinprogress/</loc>
+    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hussainhadah.com/post/my-first-post/</loc>
+    <lastmod>2021-04-23T21:21:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hussainhadah.com/post/</loc>
+    <lastmod>2021-04-23T21:21:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hussainhadah.com/publication-type/0/</loc>
     <lastmod>2020-10-19T12:38:09-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://hussainhadah.com/worksinprogress/muslimarabwomen/</loc>
     <lastmod>2020-10-19T12:38:09-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/hussain-hadah/</loc>
-    <lastmod>2020-10-19T12:38:09-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/workingpaper/muslimarabwomen/</loc>
-    <lastmod>2020-10-19T12:38:09-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-10-19T12:38:09-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/workingpaper/</loc>
-    <lastmod>2020-10-19T12:38:09-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/anotherone/</loc>
-    <lastmod>2020-10-18T23:08:04-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-10-18T23:08:04-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/workingpaper/gunsandsuicide/</loc>
+    <loc>https://hussainhadah.com/worksinprogress/gunsandsuicide/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/3/</loc>
-    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+    <loc>https://hussainhadah.com/author/gael-compta/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/democraticinstitutions2020/</loc>
-    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/workingpaper/democraticinstitutions2020/</loc>
-    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/hussain-hadah/</loc>
-    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/gael-compta/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/workingpaper/populism_immigration/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/mehedi-hasan-oni/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/workingpaper/policekillings/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/workingpaper/hispanicdiscrimnation/</loc>
+    <loc>https://hussainhadah.com/worksinprogress/hispanicdiscrimnation/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
+    <loc>https://hussainhadah.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>https://hussainhadah.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/deep-learning/</loc>
+    <loc>https://hussainhadah.com/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/demo/</loc>
+    <loc>https://hussainhadah.com/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/external-project/</loc>
+    <loc>https://hussainhadah.com/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>https://hussainhadah.com/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://hussainhadah.com/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://hussainhadah.com/tags/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://hussainhadah.com/categories/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://hussainhadah.com/courses/econ2304/chapter2/</loc>
   </url>
   
   <url>
-    <loc>/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://hussainhadah.com/author/hussain-hadah/</loc>
   </url>
   
   <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://hussainhadah.com/publication/</loc>
   </url>
   
   <url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://hussainhadah.com/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contents | Hussain Hadah</title>
+    <link>https://hussainhadah.com/content/</link>
+      <atom:link href="https://hussainhadah.com/content/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contents</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hussain Hadah © 2022</copyright><lastBuildDate>Fri, 01 Jul 2022 15:49:52 -0500</lastBuildDate>
+    <image>
+      <url>https://hussainhadah.com/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png</url>
+      <title>Contents</title>
+      <link>https://hussainhadah.com/content/</link>
+    </image>
+    
+    <item>
+      <title>My Project Name</title>
+      <link>https://hussainhadah.com/content/workingpaper/my-project-name/</link>
+      <pubDate>Fri, 01 Jul 2022 15:49:52 -0500</pubDate>
+      <guid>https://hussainhadah.com/content/workingpaper/my-project-name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethnicfavoritism</title>
+      <link>https://hussainhadah.com/content/workingpaper/ethnicfavoritism/</link>
+      <pubDate>Fri, 01 Jul 2022 15:47:57 -0500</pubDate>
+      <guid>https://hussainhadah.com/content/workingpaper/ethnicfavoritism/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

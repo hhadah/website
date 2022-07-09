@@ -33,7 +33,7 @@
   <meta name="description" content="Ph.D. Candidate in Economics">
 
   
-  <link rel="alternate" hreflang="en-us" href="/courses/">
+  <link rel="alternate" hreflang="en-us" href="https://hussainhadah.com/courses/">
 
   
 
@@ -41,7 +41,7 @@
   
   
   
-  <meta name="theme-color" content="#3f51b5">
+  <meta name="theme-color" content="#2962ff">
   
 
   
@@ -219,6 +219,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-233405867-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-233405867-1');
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -233,7 +271,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/courses/">
+  <link rel="canonical" href="https://hussainhadah.com/courses/">
 
   
   
@@ -252,29 +290,29 @@
   <meta property="twitter:creator" content="@HHeddeh">
   
   <meta property="og:site_name" content="Hussain Hadah">
-  <meta property="og:url" content="/courses/">
-  <meta property="og:title" content="Courses | Hussain Hadah">
-  <meta property="og:description" content="Ph.D. Candidate in Economics"><meta property="og:image" content="/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://hussainhadah.com/courses/">
+  <meta property="og:title" content="Teaching | Hussain Hadah">
+  <meta property="og:description" content="Ph.D. Candidate in Economics"><meta property="og:image" content="https://hussainhadah.com/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://hussainhadah.com/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2019-05-05T00:00:00&#43;01:00">
+    <meta property="og:updated_time" content="2022-01-12T00:00:00&#43;00:00">
   
-
-  
-
-
-
-
-  
-
 
   
 
 
 
 
+  
 
-  <title>Courses | Hussain Hadah</title>
+
+  
+
+
+
+
+
+  <title>Teaching | Hussain Hadah</title>
 
 </head>
 
@@ -401,7 +439,117 @@
         
 
         <li class="nav-item">
+          <a class="nav-link " href="/worksinprogress/"><span>Works in Progress</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
           <a class="nav-link " href="/workingpaper/"><span>Working Papers</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/courses/"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/post/"><span>Blog Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/HussainHadahcv.pdf"><span>CV</span></a>
         </li>
 
         
@@ -431,28 +579,6 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/#contact"><span>Contact</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/files/HussainHadahcv.pdf"><span>CV</span></a>
         </li>
 
         
@@ -520,7 +646,7 @@
     
   
 <div class="universal-wrapper pt-3">
-  <h1>Courses</h1>
+  <h1>Teaching</h1>
 
   
 
@@ -531,13 +657,29 @@
 
 <div class="universal-wrapper">
   
-  <ul class="list-unstyled">
+  <div class="article-style"><p>My courses at the University of Houston</p>
+<h3 id="undergraduate">Undergraduate</h3>
+<p><em>Microeconomic Principles</em>, ECON 2304. <!--([Syllabus](files/ECON2304_Summer2021_Syllabus.pdf))--></p>
+</div>
+  
+
+  
+  
     
     
-    <li><h5><a href="/courses/example/">An Example Course</a></h5> <p>Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.</p></li>
     
-    
-  </ul>
+    <div>
+      <h2><a href="/courses/econ2304/" >ECON 2304 Principles of Microeconomics</a></h2>
+      <div class="article-style">
+        
+          This is an overview of my Principles of Microeconomics class taught in Spring 2022
+        
+      </div>
+    </div>
+  
+
+  
+
 </div>
 
       
@@ -658,19 +800,9 @@
   <div class="container">
     <footer class="site-footer">
   
-  <p class="powered-by">
-    
-      <a href="/privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="/terms/">Terms</a>
-    
-  </p>
-  
 
   <p class="powered-by">
-    
+    Hussain Hadah © 2022
   </p>
 
   

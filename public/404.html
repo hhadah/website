@@ -33,7 +33,7 @@
   <meta name="description" content="Ph.D. Candidate in Economics">
 
   
-  <link rel="alternate" hreflang="en-us" href="/404.html">
+  <link rel="alternate" hreflang="en-us" href="https://hussainhadah.com/404.html">
 
   
 
@@ -41,7 +41,7 @@
   
   
   
-  <meta name="theme-color" content="#3f51b5">
+  <meta name="theme-color" content="#2962ff">
   
 
   
@@ -219,6 +219,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-233405867-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-233405867-1');
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/404.html">
+  <link rel="canonical" href="https://hussainhadah.com/404.html">
 
   
   
@@ -250,10 +288,10 @@
   <meta property="twitter:creator" content="@HHeddeh">
   
   <meta property="og:site_name" content="Hussain Hadah">
-  <meta property="og:url" content="/404.html">
+  <meta property="og:url" content="https://hussainhadah.com/404.html">
   <meta property="og:title" content="404 Page not found | Hussain Hadah">
-  <meta property="og:description" content="Ph.D. Candidate in Economics"><meta property="og:image" content="/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Ph.D. Candidate in Economics"><meta property="og:image" content="https://hussainhadah.com/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://hussainhadah.com/images/icon_hu9c5e68554373709c1c17cf7b680b1270_26625_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
   
@@ -399,7 +437,117 @@
         
 
         <li class="nav-item">
+          <a class="nav-link " href="/worksinprogress/"><span>Works in Progress</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
           <a class="nav-link " href="/workingpaper/"><span>Working Papers</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/courses/"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/post/"><span>Blog Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/HussainHadahcv.pdf"><span>CV</span></a>
         </li>
 
         
@@ -429,28 +577,6 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/#contact"><span>Contact</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/files/HussainHadahcv.pdf"><span>CV</span></a>
         </li>
 
         
@@ -518,25 +644,25 @@
   <h2>Latest</h2>
   <ul>
     
-      <li><a href="/courses/example/example1/">Example Page 1</a></li>
-    
-      <li><a href="/courses/example/example2/">Example Page 2</a></li>
-    
       <li><a href="/talk/example/">Example Talk</a></li>
     
-      <li><a href="/workingpaper/muslimarabwomen/">Intergenerational Mobility and Assimilation of Muslim and Arab Women in the United States</a></li>
+      <li><a href="/content/workingpaper/my-project-name/">My Project Name</a></li>
     
-      <li><a href="/publication/anotherone/">Hello</a></li>
+      <li><a href="/content/workingpaper/ethnicfavoritism/">Ethnicfavoritism</a></li>
     
-      <li><a href="/workingpaper/gunsandsuicide/">Effects of Gun Control Laws on Suicide</a></li>
+      <li><a href="/courses/econ2304/chapter1/">Chapter 1</a></li>
     
-      <li><a href="/publication/democraticinstitutions2020/">Democratic Institutions and Ethnic Favoritism: Evidence from sub-Saharan Africa</a></li>
+      <li><a href="/workingpaper/ethnicfav/">Democracy and Ethnic Favoritism: Evidence from Sub-Saharan Africa</a></li>
     
-      <li><a href="/workingpaper/democraticinstitutions2020/">Democratic Institutions and Ethnic Favoritism: Evidence from sub-Saharan Africa</a></li>
+      <li><a href="/worksinprogress/changeidentity/">The Change in Hispanic Identity Across Generations</a></li>
     
-      <li><a href="/workingpaper/populism_immigration/">Immigration and the Rise of Populism in Europe</a></li>
+      <li><a href="/post/my-first-post/"> </a></li>
     
-      <li><a href="/workingpaper/policekillings/">Gun Laws and Police Killings in the United States</a></li>
+      <li><a href="/worksinprogress/muslimarabwomen/">Intergenerational Mobility and Assimilation of Muslim and Arab Women in the United States</a></li>
+    
+      <li><a href="/worksinprogress/gunsandsuicide/">Effects of Gun Control Laws on Suicide</a></li>
+    
+      <li><a href="/worksinprogress/hispanicdiscrimnation/">The Impact of Hispanic Last Names and Identity on Labor Market Outcomes</a></li>
     
   </ul>
   
@@ -661,19 +787,9 @@
   <div class="container">
     <footer class="site-footer">
   
-  <p class="powered-by">
-    
-      <a href="/privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="/terms/">Terms</a>
-    
-  </p>
-  
 
   <p class="powered-by">
-    
+    Hussain Hadah © 2022
   </p>
 
   
