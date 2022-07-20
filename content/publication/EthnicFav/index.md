@@ -6,7 +6,12 @@ authors:
 - Hussain Hadah
 
 date: 2020-12-17T11:17:33-06:00
-url_pdf: HussainHadahEthFav.pdf
+
+links:
+- name: PDF
+  url: HussainHadahEthFav.pdf
+  icon: far fa-file-pdf
+  local: true
 
 # doi: https://doi.org/10.1088/1748-9326/abcf76
 
