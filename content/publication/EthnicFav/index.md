@@ -6,10 +6,8 @@ authors:
 - Hussain Hadah
 
 date: 2020-12-17T11:17:33-06:00
-https://hhadah.github.io/MicroSlides/Syllabus/ECON2304_Summer2022_Syllabus.pdf
-url_pdf: "HussainHadahEthFav.pdf"
 
-#https://hhadah.github.io//HussainHadahEthFav.pdf
+url_pdf: HussainHadahEthFav.pdf
 
 # doi: https://doi.org/10.1088/1748-9326/abcf76
 
