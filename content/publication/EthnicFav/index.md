@@ -7,10 +7,11 @@ authors:
 
 date: 2020-12-17T11:17:33-06:00
 url_pdf: HussainHadahEthFav.pdf
+
 # doi: https://doi.org/10.1088/1748-9326/abcf76
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-11-09T11:17:33-06:00
+publishDate:
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -38,7 +39,7 @@ featured: false
 
 # Customize links
 links:
- - name: 
+# - name: 
 # url_code:
 # url_dataset:
 # url_poster:
