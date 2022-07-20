@@ -7,7 +7,7 @@ authors:
 
 date: 2020-12-17T11:17:33-06:00
 
-url_pdf: HussainHadahEthFav.pdf
+url_pdf: "pdf/HussainHadahEthFav.pdf"
 
 # doi: https://doi.org/10.1088/1748-9326/abcf76
 
