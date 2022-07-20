@@ -16,7 +16,7 @@ publishDate: 2020-10-19T12:36:24-05:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "_Works in Progress_"
 publication_short: ""
 
 abstract: "In this paper, I compare the children of inter-ethnic marriages to study the impact of having a Hispanic last name. While males born to Hispanic father-White mothers earn less than those born to White father-Hispanic mothers, the gap could be completely explained by educational differences. I also study the effect of identifying as Hispanic on earnings. I find that men that identify as Hispanic earn significantly less than those that do not, even after controlling for educational differences."
