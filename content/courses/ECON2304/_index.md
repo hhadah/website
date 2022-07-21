@@ -33,3 +33,6 @@ weight: 1
 
 5. Market Forces of Supply & Demand
  \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch4/Ch4.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch4/Ch4.pdf)\]
+ 
+6. Elasticity and Its Application
+ \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch5/Ch5.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch5/Ch5.pdf)\]
