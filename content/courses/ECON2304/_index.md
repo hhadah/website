@@ -30,3 +30,6 @@ weight: 1
 
 4. Interdependence and the Gains from Trade
  \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch3/Ch3.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch3/Ch3.pdf)\]
+
+5. Market Forces of Supply & Demand
+ \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch4/Ch4.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch4/Ch4.pdf)\]
