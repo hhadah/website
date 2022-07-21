@@ -38,7 +38,6 @@ weight: 1
 
 8. Consumers, Producers, and the Efficiency of Markets
  \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch7/Ch7.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch7/Ch7.pdf)\]
- 
 
 
 <!--
