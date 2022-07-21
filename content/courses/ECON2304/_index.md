@@ -41,24 +41,3 @@ weight: 1
  \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch6/Ch6.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch6/Ch6.pdf)\]
  
 8. Consumers, Producers, and the Efficiency of Markets \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch7/Ch7.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch7/Ch7.pdf)\]
-
-<!--
-9. The Costs of Taxation
- \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch8/Ch8.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch8/Ch8.pdf)\]
- 
-10. International Trade
- \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch9/Ch9.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch9/Ch9.pdf)\]
- 
-11. Externalities
- \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch10/Ch10.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch10/Ch10.pdf)\]
- 
-12. Public Goods and Common Resources
- \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch11/Ch11.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch11/Ch11.pdf)\]
-
-13. The Costs of Production
- \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch13/Ch13.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch13/Ch13.pdf)\]
- 
-14. Firms in Competitive Markets \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch14/Ch14.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch14/Ch14.pdf)\]
-
-15. Monopoly \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch15/Ch15.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch15/Ch15.pdf)\]
--->
