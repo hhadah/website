@@ -27,3 +27,6 @@ weight: 1
 2. The Ten Principles of Economics \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch1/Ch1.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch1/Ch1.pdf)\]
 
 3. Thinking Like an Economist \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch2/Ch2.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch2/Ch2.pdf)\]
+
+4. Interdependence and the Gains from Trade
+ \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch3/Ch3.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch3/Ch3.pdf)\]
