@@ -36,3 +36,7 @@ weight: 1
  
 6. Elasticity and Its Application
  \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch5/Ch5.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch5/Ch5.pdf)\]
+ 
+7. Supply, Demand and Government Policies
+ \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch6/Ch6.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch6/Ch6.pdf)\]
+
