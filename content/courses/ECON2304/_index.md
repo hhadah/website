@@ -21,3 +21,7 @@ weight: 1
 # Slides
 
 - Syllabus \[[**.pdf**](https://hhadah.github.io/MicroSlides/Syllabus/ECON2304_Summer2022_Syllabus.pdf)\]
+
+1. Introduction \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/intro/intro.pdf)\]
+
+2. The Ten Principles of Economics \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch1/Ch1.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch1/Ch1.pdf)\]
