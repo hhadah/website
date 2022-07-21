@@ -36,6 +36,7 @@ weight: 1
 7. Supply, Demand and Government Policies
  \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch6/Ch6.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch6/Ch6.pdf)\]
 
+
 <!--
 8. Consumers, Producers, and the Efficiency of Markets
  \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch7/Ch7.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch7/Ch7.pdf)\]
