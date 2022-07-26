@@ -7,6 +7,7 @@ authors:
 
 date: 2020-12-17T11:17:33-06:00
 
+url_pdf: "pdf/HussainHadahEthFav.pdf"
 
 # doi: https://doi.org/10.1088/1748-9326/abcf76
 
@@ -20,7 +21,7 @@ publishDate:
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Working Paper"
+publication: "_Working Paper_"
 publication_short: ""
 
 abstract: "What is the effect of democracy on ethnic favoritism? I estimate the relationship between co-ethnicity and five outcomes of public good provision – education, infant health, wealth, access to clean drinking water and access to electricity – using data from twenty-one African countries. Following previous research, I use variation in co-ethnicity across ethnic groups and over time. I first estimate the relationship between these five outcomes and co-ethnicity in the full sample and then split the analysis between anocracies and democracies. I find mixed evidence of ethnic favoritism in the full sample. I find more evidence of co-ethnic targeting when comparing within democracies only and within anocracies only."
@@ -39,8 +40,7 @@ featured: false
 
 # Customize links
 links:
-
-#- name: 
+# - name: 
 # url_code:
 # url_dataset:
 # url_poster:
@@ -48,7 +48,6 @@ links:
 # url_slides:
 # url_source:
 # url_video:
-url_pdf: "pdf/HussainHadahEthFav.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
