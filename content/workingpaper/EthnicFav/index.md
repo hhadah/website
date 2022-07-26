@@ -40,6 +40,7 @@ featured: false
 # Customize links
 links:
 - name: 
+
 # url_code:
 # url_dataset:
 # url_poster:
@@ -48,6 +49,7 @@ links:
 # url_source:
 # url_video:
 url_pdf: "pdf/HussainHadahEthFav.pdf"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
