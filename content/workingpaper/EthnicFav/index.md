@@ -39,8 +39,8 @@ featured: false
 
 # Customize links
 links:
-- name: 
 
+#- name: 
 # url_code:
 # url_dataset:
 # url_poster:
