@@ -7,7 +7,6 @@ authors:
 
 date: 2020-12-17T11:17:33-06:00
 
-url_pdf: "pdf/HussainHadahEthFav.pdf"
 
 # doi: https://doi.org/10.1088/1748-9326/abcf76
 
@@ -40,7 +39,7 @@ featured: false
 
 # Customize links
 links:
-# - name: 
+- name: 
 # url_code:
 # url_dataset:
 # url_poster:
@@ -48,7 +47,7 @@ links:
 # url_slides:
 # url_source:
 # url_video:
-
+url_pdf: "pdf/HussainHadahEthFav.pdf"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
