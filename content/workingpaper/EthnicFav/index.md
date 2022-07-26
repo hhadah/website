@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Democracy and Ethnic Favoritism: Evidence from Sub-Saharan Africa"
+title: "Democracy and Ethnic Favoritism: Evidence from Africa"
 authors:
 - Hussain Hadah
 
