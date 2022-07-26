@@ -7,8 +7,6 @@ authors:
 
 date: 2020-12-17T11:17:33-06:00
 
-url_pdf: "pdf/HussainHadahEthFav.pdf"
-
 # doi: https://doi.org/10.1088/1748-9326/abcf76
 
 # Schedule page publish date (NOT publication's date).
@@ -40,7 +38,10 @@ featured: false
 
 # Customize links
 links:
-# - name: 
+- name:
+
+url_pdf: "pdf/HussainHadahEthFav.pdf"
+
 # url_code:
 # url_dataset:
 # url_poster:
