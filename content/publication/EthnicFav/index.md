@@ -40,9 +40,9 @@ featured: false
 
 # Customize links
 
-# links:
-# - name: PDF
-#   url: "pdf/HussainHadahEthFav.pdf"
+links:
+- name: PDF
+  url: "pdf/HussainHadahEthFav.pdf"
 # url_code:
 # url_dataset:
 # url_poster:
