@@ -45,3 +45,5 @@ The syllabus can be found here \[[**.pdf**](https://hhadah.github.io/MicroSlides
 1. International Trade \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch9/Ch9.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch9/Ch9.pdf)\]
 
 1. Externalities \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch10/Ch10.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch10/Ch10.pdf)\]
+
+1. Public Goods and Common Resources \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch11/Ch11.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch11/Ch11.pdf)\]
