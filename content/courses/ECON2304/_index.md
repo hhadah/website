@@ -47,3 +47,5 @@ The syllabus can be found here \[[**.pdf**](https://hhadah.github.io/MicroSlides
 1. Externalities \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch10/Ch10.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch10/Ch10.pdf)\]
 
 1. Public Goods and Common Resources \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch11/Ch11.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch11/Ch11.pdf)\]
+
+1. Public Goods and Common Resources \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch12/Ch12.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch12/Ch12.pdf)\]
