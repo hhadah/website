@@ -49,3 +49,5 @@ The syllabus can be found here \[[**.pdf**](https://hhadah.github.io/MicroSlides
 1. Public Goods and Common Resources \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch11/Ch11.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch11/Ch11.pdf)\]
 
 1. The Costs of Production \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch13/Ch13.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch13/Ch13.pdf)\]
+
+1. Firms in Competitive Markets \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch14/Ch14.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch14/Ch14.pdf)\]
