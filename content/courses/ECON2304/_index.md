@@ -51,3 +51,5 @@ The syllabus can be found here \[[**.pdf**](https://hhadah.github.io/MicroSlides
 1. The Costs of Production \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch13/Ch13.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch13/Ch13.pdf)\]
 
 1. Monopoly \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch15/Ch15.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch15/Ch15.pdf)\]
+
+1. Monopolistic Competition \[[**.html**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch16/Ch16.html) | [**.pdf**](https://hhadah.github.io/MicroSlides/MyPresentations/Ch16/Ch16.pdf)\]
