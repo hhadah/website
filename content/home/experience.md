@@ -36,6 +36,7 @@ date_format = "Jan 2006"
   date_start = "2018-09-01"
   date_end = "2022-01-01"
   description = """
+  
   - Teaching Assistant, Piruz Saboury, August 2021–January 2022. 
   
   -Teaching Assistant, Principles of Microeconomics, Joel Melendez Lugo, August 2020–May 2021. 
