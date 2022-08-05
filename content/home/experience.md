@@ -25,8 +25,6 @@ date_format = "Jan 2006"
   date_start = "2021-05-01"
   date_end = "2022-09-01"
   description = """
-  Responsibilities include:
-  
   - Principles of Microeconomics (Summer 2021, Spring 2021, and Summer 2022)
   """
 
@@ -39,7 +37,9 @@ date_format = "Jan 2006"
   date_end = "2022-01-01"
   description = """
   - Teaching Assistant, Piruz Saboury, August 2021–January 2022. 
+  
   -Teaching Assistant, Principles of Microeconomics, Joel Melendez Lugo, August 2020–May 2021. 
+  
   -Teaching Assistant, Intermediate Macroeconomics and Capital Market Economics, Islam Rizvanoghlu, August 2018–August 2019."""
 
 +++
