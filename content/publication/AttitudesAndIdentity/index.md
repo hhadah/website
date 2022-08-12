@@ -22,7 +22,7 @@ publication_short: ""
 abstract: " "
 
 # Summary. An optional shortened abstract.
-summary: "In this paper, I study the causes of a change in a person's identity. I also investigate whether a change in identity affects labor and marriage markets outcomes."
+summary: "In this paper, I study the how racial and ethnic attitudes affect a person's own identity."
 
 tags: []
 categories: []
