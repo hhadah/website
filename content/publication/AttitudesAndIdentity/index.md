@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Endogenous Hispanic Identity and Ethnic Gaps in the U.S."
+title: "The Effect of Racial and Ethnic Attitudes on Hispanic Identity in the U.S"
 authors: [Hussain Hadah]
 date: "2021-09-20T00:00:00Z"
 doi: ""

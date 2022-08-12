@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Change in Hispanic Identity Across Generations"
+title: "Endogenous Hispanic Identity and Ethnic Gaps in the U.S"
 authors: [Hussain Hadah]
 date: "2021-09-20T00:00:00Z"
 doi: ""

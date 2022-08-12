@@ -1,0 +1,460 @@
+% LaTeX Curriculum Vitae Template
+%
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[10pt,letterpaper]{article}
+
+\usepackage{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=blue,      
+    urlcolor=blue,
+}
+
+\newcommand{\MYhref}[3][black]{\href{#2}{\color{#1}{#3}}}%
+
+% Comment the following line to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+\usepackage[sc,osf]{mathpazo}
+
+
+
+
+% In practice, I use the following font packages instead of mathpazo.
+% beramono provides a nice fixed-width font. xagaramon uses the
+% (commercial) Adobe Garamond font.
+%\usepackage[scaled=0.75]{beramono}
+%\usepackage[osf]{xagaramon}
+
+% Set your name here
+\def\name{Hussain Hadah}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+\def\footerlink{https://hussainhadah.com/files/HussainHadahcv.pdf}
+
+% The following metadata will show up in the PDF properties
+%\hypersetup{
+%  colorlinks = true,
+%  urlcolor = blue,
+%  pdfauthor = {\name},
+%  pdfkeywords = {economics, econometrics, industrial organization,
+%    applied microeconomics},
+%  pdftitle = {\name: Curriculum Vitae},
+%  pdfsubject = {Curriculum Vitae},
+%  pdfpagemode = UseNone
+%}
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+\begin{document}
+
+% Place name at left
+{\Huge \name}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\vspace{0.25in}
+
+\begin{minipage}[t]{0.5\textwidth}
+  \MYhref{https://www.uh.edu/}{University of Houston} \\
+  \MYhref{https://www.uh.edu/class/economics/}{Department of Economics} \\
+  Science Building \\
+  3581 Cullen Boulevard Suite 230 \\
+  Houston, TX 77004-5019 \\
+  %Date of Birth: July 17, 1994 \\
+  Citizenship: United States
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+  %Phone: (602) 393-8077 \\
+  %Fax: (919) 684-8974 \\
+  Email: \href{mailto:hhadah@uh.edu}{\tt hhadah@uh.edu} \\
+  Homepage: \href{http://hussainhadah.com/}{\tt http://hussainhadah.com/} \\
+\end{minipage}
+
+\section*{Education}
+
+\begin{itemize}
+  \item Economics Ph.D. Candidate, University of Houston, \textit{expected} 2023.
+    %\begin{itemize}
+    %\item \textit{Committee:}
+     % \href{http://www.stanford.edu/~doubleh/}{Han Hong} (co-chair),
+      %\href{http://www.econ.duke.edu/~shakeebk/}{Shakeeb Khan} (co-chair),
+      %\href{http://www.econ.duke.edu/~paule/}{Paul Ellickson}, and
+      %\href{http://www.econ.duke.edu/~atsweet/}{Andrew Sweeting}.
+    %\end{itemize}
+
+  \item M.A. Economics, University of Houston, 2020.
+
+  \item B.S. Economics, Arizona State University, 2017.
+    \begin{itemize}
+    \item \textit{Minors:} Mathematics and International Relations.
+    \item \textit{Honors:} \textit{Summa Cum Laude}, Phi Beta Kappa, Golden 
+    Key International Honour Society.
+%    \item \textit{Advanced study:}
+%      \href{http://www.stolaf.edu/depts/math-old/budapest/}{Budapest
+%        Semesters in Mathematics}, Fall 2002.
+    \end{itemize}
+
+\end{itemize}
+
+\section*{References}
+
+\begin{minipage}[t]{0.5\textwidth}
+   \textbf{Professor Vikram Maheshri}  \\
+                   Department of Economics \\
+                   University of Houston  \\
+                   \href{mailto:vmaheshri@uh.edu}{\tt vmaheshri@uh.edu} \\
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+  \textbf{Professor Chinhui Juhn}  \\
+                   Department of Economics \\
+                   University of Houston  \\
+                   \href{mailto:cjuhn@uh.edu}{\tt cjuhn@uh.edu} \\
+\end{minipage}
+
+
+\begin{minipage}[t]{0.5\textwidth}
+   \textbf{Professor Yona Rubinstein}  \\
+                   Department of Economics \\
+                   London School of Economics  \\
+                   \href{mailto:yonarubinstein@gmail.com}{\tt yonarubinstein@gmail.com} \\
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+  \textbf{Professor Ruxandra Prodan - Boul} \\
+  \textit{(Teaching reference)}  \\
+                   Department of Economics \\
+                   University of Houston  \\
+                   \href{mailto:rprodan@uh.edu}{\tt rprodan@uh.edu} \\
+\end{minipage}
+
+
+\section*{Fields of Interest}
+
+Applied Microeconomics, Labor Economics, Development Economics
+
+%\section*{References}
+%
+%\begin{itemize}
+%\item Han Hong \\
+%  Professor of Economics \\
+%  Stanford University \\
+%  (650) 725-5702 \\
+%  \href{mailto:doubleh@stanford.edu}{\texttt{doubleh@stanford.edu}}
+%\item Shakeeb Khan \\
+%  Associate Professor of Economics \\
+%  Duke University \\
+%  (919) 660-1873 \\
+%  \href{mailto:shakeebk@econ.duke.edu}{\texttt{shakeebk@econ.duke.edu}}
+%\item Paul Ellickson \\
+%  Assistant Professor of Economics and Marketing \\
+%  Simon Graduate School of Business, University of Rochester \\
+%  (585) 273-1491 \\
+%  \href{mailto:paul.ellickson@paul.ellickson@simon.rochester.edu}{\texttt{paul.ellickson@simon.rochester.edu}}
+%\item Andrew Sweeting \\
+%  Assistant Professor of Economics \\
+%  Duke University \\
+%  (919) 660-1883 \\
+%  \href{mailto:atsweet@duke.edu}{\texttt{atsweet@duke.edu}}
+%\item Curtis Taylor (\emph{Teaching Reference}) \\
+%  Professor of Economics \\
+%  Duke University \\
+%  (919) 660-1827 \\
+%  \href{mailto:crtaylor@econ.duke.edu}{\texttt{crtaylor@econ.duke.edu}}
+%\end{itemize}
+
+%\section*{Academic Experience}
+
+\section*{Research Experience}
+
+\begin{itemize}
+  \item Research Assistant,
+  \href{https://vmaheshri.github.io/}{Vikram Maheshri},
+  May 2021--August 2021.
+
+  \item Research Assistant,
+  \href{https://www.uh.edu/class/economics/people/current-faculty/steve/}{Steve Craig},
+  June 2020--Present.
+  \item Research Assistant,
+  \href{https://sites.google.com/site/vegardmokleivnygaard/}{Vegard Mokleiv Nygaard},
+  August 2019--August 2020.
+\end{itemize}
+
+\section*{Teaching Experience}
+\subsection*{University of Houston, Department of Economics}
+
+\begin{itemize}
+\item Instructor, Principles of Microeconomics, Summer 2021, Spring 2022, and Summer 2022.
+\item Teaching Assistant, Piruz Saboury,
+  August 2021--January 2022.
+\item Teaching Assistant, Principles of Microeconomics, Joel Melendez Lugo,
+  August 2020--May 2021.
+%\item Research Assistant,
+%  \href{http://www.econ.duke.edu/~shakeebk/}{Shakeeb Khan},
+%  Fall 2009--Spring 2010.
+%\item Research Assistant,
+%  \href{http://www.econ.duke.edu/~psarcidi/}{Peter Arcidiacono},
+%  \href{http://www.econ.duke.edu/~pb29/}{Patrick Bayer}, and
+%  \href{http://www.econ.duke.edu/~paule/}{Paul Ellickson},
+%  Fall 2007--Spring 2009.
+\item Teaching Assistant, Intermediate Macroeconomics and  Capital Market
+
+\qquad  Economics, Islam Rizvanoghlu, August 2018--August 2019.
+%\item Research Assistant,
+%  \href{http://www.econ.duke.edu/~shakeebk/}{Shakeeb Khan} and
+%  \href{http://www.econ.duke.edu/~timmins/}{Christopher Timmins},
+%  March--June 2007.
+%\item Research Assistant,
+%  \href{http://www.stanford.edu/~axl/}{Aprajit Mahajan} and
+%  \href{http://www.econ.duke.edu/~taroz/}{Alessandro Tarozzi},
+%  October--November 2006,
+%  March--June 2007.
+%\item Research Assistant,
+%  \href{http://www.stanford.edu/~doubleh/}{Han Hong},
+%  Fall 2006--Spring 2007.
+%\item Instructor,
+%  \href{http://jblevins.org/courses/qualcamp06}{Microeconomics Qualifier Camp},
+%  Summer 2006.
+%\item Teaching Assistant,
+%  \href{http://jblevins.org/courses/econ302s06}{Ph.D. Game Theory},
+%  \href{http://www.duke.edu/~crtaylor/}{Curtis Taylor},
+%  Spring 2006.
+%\item Teaching Assistant,
+%  \href{http://jblevins.org/courses/econ301f05}{Ph.D. Microeconomic Analysis},
+%  \href{http://www.econ.duke.edu/~nechyba/}{Thomas Nechyba},
+%  Fall 2005.
+%\item Research Assistant,
+%  \href{http://trinity.aas.duke.edu/~jvigdor/}{Jacob Vigdor},
+%  Summer 2005--Summer 2006.
+\end{itemize}
+
+%\subsection*{Colorado School of Mines,
+%  Department of Mathematical and Computer Sciences}
+%
+%\begin{itemize}
+%\item Research Assistant,
+%  \href{http://www.mines.edu/fs_home/whereman/}{Willy\ Hereman},
+%  Summer 2002.
+%\end{itemize}
+%
+%\subsection*{North Carolina State University,
+%  Department of Mathematics}
+%
+%\begin{itemize}
+%\item Research Assistant,
+%  \href{http://www4.ncsu.edu/~mtchu/}{Moody Chu} and
+%  \href{http://www4.ncsu.edu/~ref/}{Robert Funderlic},
+%  Spring 2003--Fall 2004.
+%\item Mathematics Tutor,
+%  \href{http://www.ncsu.edu/aspsa/}{Academic Support Program for Student Athletes},
+%  Summer 2001.
+%\end{itemize}
+
+\section*{Research}
+%
+\subsection*{Working Paper}
+\begin{itemize}
+\item "Democratic Institutions and Their Effect on Ethnic Favoritism: Evidence from Sub Saharan Africa"
+\end{itemize}
+\subsection*{Works in Progress}
+%
+\begin{itemize}
+
+\item "The Effect of Racial and Ethnic Attitudes on Hispanic Identity in the U.S."
+\item "Endogenous Hispanic Identity and Ethnic Gaps in the U.S."
+% \item ``Discrimination and the Black-White Arrests Gap'', with Vikram Maheshri
+\item "The Impact of Hispanic Last Names and Identity on Labor Market Outcomes"
+\item "Effects of Gun Control Laws on Suicide", with Gael Compta
+
+%with
+%\href{http://www.econ.duke.edu/~psarcidi/}{Peter Arcidiacono},
+%\href{http://www.econ.duke.edu/~pb29/}{Patrick Bayer}, and
+%\href{http://www.econ.duke.edu/~paule/}{Paul Ellickson}
+%(\emph{Job market paper~1}).
+%\item \href{http://jblevins.org/research/panel}%
+%  {Partial Identification and Inference in Binary Choice and Duration Panel Data Models}
+%  (\emph{Job market paper~2}).
+%\item \href{http://jblevins.org/research/smcdmm}%
+%  {Sequential Monte Carlo Methods for Estimating Dynamic Microeconomic Models}.
+%\item Local NLLS Estimation of Semiparametric Binary Choice Models, with
+%  \href{http://www.econ.duke.edu/~shakeebk/}{Shakeeb Khan}.
+%\item \href{http://jblevins.org/research/dcident}%
+%  {Nonparametric Identification of Dynamic Games with Discrete and Continuous Choices and Latent States}.
+%\item \href{http://jblevins.org/research/dfbr}{Distribution-Free
+%    Estimation of Heteroskedastic Binary Response Models in Stata}, with
+%  \href{http://www.econ.duke.edu/~shakeebk/}{Shakeeb Khan}.
+\end{itemize}
+%
+%\subsection*{Publications}
+%
+%\begin{itemize}
+%\item Blevins, Jason~R. (forthcoming).
+%  \href{http://jblevins.org/research/generic-list}%
+%  {A Generic Linked List Implementation in Fortran 95}.
+%  \textit{ACM SIGPLAN Fortran Forum}.
+%\end{itemize}
+%
+%\subsection*{Scientific Software}
+%
+%\begin{itemize}
+%\item \href{http://libosl.org/}{Open Scientific Library}, An open-source
+%  library for scientific computing in Fortran (in progress).
+%\item \href{http://jblevins.org/research/dfbr}{DFBR}, A Stata program
+%  for distribution-free estimation of heteroskedastic binary response
+%  models, with
+%  \href{http://www.econ.duke.edu/~shakeebk/}{Shakeeb Khan} (2009).
+%\item \href{http://jblevins.org/research/pdest}{PDESolutionTester}, A
+%  Mathematica program for the symbolic verification of exact solutions
+%  of nonlinear partial differential equations, with
+%  \href{http://web.centre.edu/jeffrey.heath/}{Jeff\ Heath} and
+%  \href{http://www.mines.edu/fs_home/whereman/}{Willy\ Hereman} (2002).
+%\end{itemize}
+%
+%\section*{Conference Presentations}
+%
+%\begin{itemize}
+%\item Sequential Monte Carlo Methods for Estimating Dynamic
+%  Microeconomic Models
+%  \begin{itemize}
+%  \item ERID Conference on Identification Issues in Economics, Duke
+%    University, October 3, 2008.
+%  \end{itemize}
+%\end{itemize}
+%
+\section*{Professional Activities}
+%
+\begin{itemize}
+%
+\item Member, American Economic Association, 2017--Present.
+%
+%\item Vice President, Economics Graduate Student Council, Duke University,
+%  2006--2007.
+%
+%\item Vice President, Society of Undergraduate Mathematics, North
+%  Carolina State University, 2001--2003.
+%
+\item Conferences and workshops attended:
+%
+\begin{description}
+\item[2021:] \href{https://www.southerneconomic.org/session-details/?conferenceId=7&eventId=3353}%
+{Southern Economic Association}, Houston, Texas
+  \item[2020:] \href{https://cega.berkeley.edu/initiative/working-group-in-african-political-economy/}%
+{Working Group in African Political Economy}, University of  California, Berkeley
+\end{description}
+%
+%\item Referee for:
+%  \begin{itemize}
+%  \item \href{http://www.wiley.com/bw/journal.asp?ref=0095-2583}%
+%    {\textit{Economic Inquiry}}% (1)
+%  \item \href{http://pubs.amstat.org/loi/jbes}%
+%    {\textit{Journal of Business and Economic Statistics}}% (1)
+% \item \href{http://www.elsevier.com/locate/jeconom}%
+%   {\textit{Journal of Econometrics}}% (1)
+%  \item \href{http://www.wiley.com/bw/journal.asp?ref=0303-6898}%
+%    {\textit{Scandinavian Journal of Statistics}}% (1)
+%  \end{itemize}
+\end{itemize}
+%
+\section*{Professional Experience}
+\subsection*{Alex T for Congress}
+\begin{itemize}
+\item Data Analyst and Researcher, August 2017-- March 2018.
+\end{itemize}
+\section*{Honors, Awards, \& Fellowships}
+%
+\begin{itemize}
+\item Doctoral Student Tuition Fellowship, University of Houston, 2017--2023.
+\item \href{https://www.pbk.org/}{The Phi Beta Kappa Society, 2017--Present}
+\item \href{http://www.goldenkey.org}{Golden Key International Honour Society, 2012--Present}.
+\item Arizona State University Grant, Spring 2016--Spring 2017.
+\item Dean's List, Arizona State University, 2016--2017.
+\end{itemize}
+
+%\item Summer Research Fellowship, Duke University, 2008.
+%\item Summer Research Fellowship, Duke University, 2007.
+%\item \href{http://ice.uchicago.edu/}{Institute on Computational Economics}
+%  Fellow, University of Chicago, 2006.
+%\item Outstanding Teaching Assistant Award, Duke University, 2006.
+%\item Undergraduate Research Award, North Carolina State University, 2004.
+%% \item \href{http://www.cba.ua.edu/~ode/}{Omicron Delta Epsilon},
+%%   International Economics Honor Society,
+%%   2004.
+%\item \href{http://www.pbk.org/}{Phi Beta Kappa}, Zeta of North Carolina, 2003.
+%% \item \href{http://www.pme-math.org/}{Pi Mu Epsilon},
+%%   National Mathematics Honor Society,
+%%   2003.
+%\item \href{http://www.nsf.gov/crssprgm/reu/}{NSF Research Experiences
+%    for Undergraduates}, Colorado School of Mines, 2002.
+%% \item \href{http://www.phikappaphi.org/}{Phi Kappa Phi}, 2002.
+%% \item \href{http://www.goldenkey.org}{Golden Key International Honour Society},
+%%   2002.
+%% \item Dean's List, North Carolina State University, 2000--2004.
+
+\section*{Miscellaneous}
+%
+\begin{itemize}
+%  \item \textit{Security Clearance:} Special Sworn Status, U.S. Census Bureau.
+\item \textit{Computer Skills:} \LaTeX, Python, R, Stata, Matlab.
+\item \textit{Languages:} Arabic (native), English (fluent), French (beginner).
+%    Ruby.
+\end{itemize}
+%
+%\newpage
+%
+
+\bigskip
+
+% Footer
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+    \href{\footerlink}{\texttt{\footerlink}}
+  \end{footnotesize}
+\end{center}
+
+\end{document}

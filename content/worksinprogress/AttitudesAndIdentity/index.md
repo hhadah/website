@@ -1,28 +1,28 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Intergenerational Mobility and Assimilation of Muslim and Arab Women in the United States"
+title: "The Effect of Racial and Ethnic Attitudes on Hispanic Identity in the U.S"
 authors: [Hussain Hadah]
-date: "2020-0-01T00:00:00Z"
+date: "2021-09-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-19T12:38:09-05:00
+publishDate: 2021-09-20T12:36:24-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: " "
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "In this paper, I study the causes of a change in a person's identity. I also investigate whether a change in identity affects labor and marriage markets outcomes."
 
 tags: []
 categories: []
@@ -41,7 +41,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: https://hhadah.github.io/Spring2022Presentation/HussainHadah_Spring2022.html
 url_source:
 url_video:
 
@@ -65,5 +65,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+slides: "https://hhadah.github.io/Spring2022Presentation/HussainHadah_Spring2022.html#1"
 ---
+
