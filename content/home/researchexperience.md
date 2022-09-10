@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   date_start = "2019-08-01"
   date_end = "2020-08-01"
   description = """
-  - Vegard Mokleiv Nygaard, August 2019–August 2020.
+  - Vegard Mokleiv Nygaard, August 2019–August 2020
   """
 
 +++
