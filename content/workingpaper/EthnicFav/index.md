@@ -5,7 +5,7 @@ title: "Democracy and Ethnic Favoritism: Evidence from Africa"
 authors:
 - Hussain Hadah
 
-date: 2020-12-17T11:17:33-06:00
+date: 2019-07-01
 
 # doi: https://doi.org/10.1088/1748-9326/abcf76
 
