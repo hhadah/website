@@ -6,10 +6,10 @@ title: Principles of Microeconomics Slides
 linktitle: ECON2304
 
 # Page summary for search engines.
-summary: This is an overview of my Principles of Microeconomics class taught in Summer 2022
+summary: 
 
 # Date page published
-date: 2022-01-12
+# date: 2022-01-12
 
 # Academic page type (do not modify).
 type: book
