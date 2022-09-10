@@ -3,7 +3,7 @@
 
 title: "The Effect of Racial and Ethnic Attitudes on Hispanic Identity in the U.S"
 authors: [Hussain Hadah]
-date: ""
+date: "2022-09-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -3,7 +3,7 @@
 
 title: "Effects of Gun Control Laws on Suicide"
 authors: [Hussain Hadah, Gael Compta]
-date: ""
+date: "2021-08-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
