@@ -3,7 +3,7 @@
 
 title: "The Effect of Racial and Ethnic Attitudes on Hispanic Identity in the U.S"
 authors: [Hussain Hadah]
-date: "2021-09-20T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: " "
+abstract: "In this paper, I study the how racial and ethnic attitudes affect a person's own identity."
 
 # Summary. An optional shortened abstract.
 summary: "In this paper, I study the how racial and ethnic attitudes affect a person's own identity."

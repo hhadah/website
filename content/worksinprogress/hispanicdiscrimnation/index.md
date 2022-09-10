@@ -3,7 +3,7 @@
 
 title: "The Impact of Hispanic Last Names and Identity on Labor Market Outcomes"
 authors: [Hussain Hadah]
-date: "2020-02-20T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +19,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: " "
+abstract: "In this paper, I compare the children of inter-ethnic marriages to study the impact of having a Hispanic last name. While males born to Hispanic father-White mothers earn less than those born to White father-Hispanic mothers, the gap could be completely explained by educational differences. I also study the effect of identifying as Hispanic on earnings. I find that men that identify as Hispanic earn significantly less than those that do not, even after controlling for educational differences."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "In this paper, I compare the children of inter-ethnic marriages to study the impact of having a Hispanic last name."
 
 tags: []
 categories: []
@@ -68,5 +68,3 @@ projects: []
 slides: ""
 ---
 
-### Abstract
-In this paper, I compare the children of inter-ethnic marriages to study the impact of having a Hispanic last name. While males born to Hispanic father-White mothers earn less than those born to White father-Hispanic mothers, the gap could be completely explained by educational differences. I also study the effect of identifying as Hispanic on earnings. I find that men that identify as Hispanic earn significantly less than those that do not, even after controlling for educational differences. 

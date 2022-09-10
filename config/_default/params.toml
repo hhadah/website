@@ -93,7 +93,7 @@ email = "hhadah@uh.edu"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "3581 Cullen Boulevard Suite 230", city = "Houston", region = "TX", postcode = "77204", country = "United States", country_code = "US"}
+address = {street = "3585 Cullen Boulevard", city = "Houston", region = "TX", postcode = "77204", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -104,7 +104,7 @@ coordinates = {latitude = "29.7215", longitude = "-95.344486"}
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["TBA"]
+#office_hours = ["TBA"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"

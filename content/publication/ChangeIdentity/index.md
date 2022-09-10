@@ -3,7 +3,7 @@
 
 title: "Endogenous Hispanic Identity and Ethnic Gaps in the U.S."
 authors: [Hussain Hadah]
-date: "2021-09-20T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["4"]
 publication: "_Works in Progress_"
 publication_short: ""
 
-abstract: " "
+abstract: "In this paper, I study the causes of a change in a person's identity. I also investigate whether a change in identity affects labor and marriage markets outcomes."
 
 # Summary. An optional shortened abstract.
 summary: "In this paper, I study the causes of a change in a person's identity. I also investigate whether a change in identity affects labor and marriage markets outcomes."

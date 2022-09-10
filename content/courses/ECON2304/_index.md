@@ -9,7 +9,7 @@ linktitle: ECON2304
 summary: "This is a webpage to my personal teaching slides"
 
 # Date page published
-# date: 2022-01-12
+date: 
 
 # Academic page type (do not modify).
 type: book
