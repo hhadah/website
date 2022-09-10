@@ -3,7 +3,7 @@
 
 title: "The Impact of Hispanic Last Names and Identity on Labor Market Outcomes"
 authors: [Hussain Hadah]
-date: "2020"
+date: "05-01-2020"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
