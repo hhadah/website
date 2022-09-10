@@ -7,7 +7,7 @@ date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: 2020-10-19T12:38:47-05:00
+publishDate: 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publication_types: ["4"]
 publication: "_Works in Progress_"
 publication_short: ""
 
-abstract: ""
+abstract: "We study the effect of gun controls and waiting periods on suicides."
 
 # Summary. An optional shortened abstract.
 summary: "We study the effect of gun controls and waiting periods on suicides."
