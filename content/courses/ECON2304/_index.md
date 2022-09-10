@@ -1,6 +1,6 @@
 ---
 # Page title
-title: ECON 2304 Principles of Microeconomics
+title: Principles of Microeconomics Slides
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: ECON2304
