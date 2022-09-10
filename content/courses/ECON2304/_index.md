@@ -6,7 +6,7 @@ title: Principles of Microeconomics Slides
 linktitle: ECON2304
 
 # Page summary for search engines.
-summary: 
+summary: "This is a webpage to my personal teaching slides"
 
 # Date page published
 # date: 2022-01-12
