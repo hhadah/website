@@ -50,4 +50,4 @@ user_groups:
 
 I am a Ph.D. candidate in Economics at the University of Houston. My research interest is in Applied Microeconomics primarily in labor and development economics. I research topics on discrimination, race, identity, mental health, and social networks.
 
-<i class="fa-solid fa-download"></i> Download my [curriculum vitae](https://hussainhadah.com/files/HussainHadahcv.pdf). 
+Download my [curriculum vitae](https://hussainhadah.com/files/HussainHadahcv.pdf). 
