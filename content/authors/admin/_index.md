@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I am a Ph.D. candidate in Economics at the University of Houston. My reserach interest is in Applied Microeconomics primarily in labor and development economics.
+bio: I am a Ph.D. candidate in Economics at the University of Houston. My research interest is in Applied Microeconomics primarily in labor and development economics.
 education:
   courses:
   - course: Economics PhD Candidate
@@ -38,6 +38,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/hhadah
+- icon: cv
+  icon_pack: ai
+  link: files/HussainHadahCV.pdf
 superuser: true
 title: Hussain Hadah
 user_groups:
@@ -45,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate in Economics at the University of Houston. My research interest is in Applied Microeconomics primarily in labor and development economics.
+I am a Ph.D. candidate in Economics at the University of Houston. My research interest is in Applied Microeconomics primarily in labor and development economics. I research topics on discrimination, race, identity, mental health, and social networks.
