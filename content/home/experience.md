@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2022-08-01"
   date_end = ""
   description = """
-  Assisting with an undergraduate political economy class
+  Assisting with an undergraduate Political Economy class
 """
 
 [[experience]]
