@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2021-05-01"
   date_end = "2021-08-01"
   description = """
-  - Vikram Maheshri, May 2021–August 2021
+  Vikram Maheshri, May 2021–August 2021
   """
 
 [[experience]]
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = "2022-05-01"
   description = """
-  - Steve Craig, June 2020 - May 2022
+  Steve Craig, June 2020 - May 2022
   """
   
   [[experience]]
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   date_start = "2019-08-01"
   date_end = "2020-08-01"
   description = """
-  - Vegard Mokleiv Nygaard, August 2019–August 2020
+  Vegard Mokleiv Nygaard, August 2019–August 2020
   """
 
 +++
