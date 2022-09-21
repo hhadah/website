@@ -17,6 +17,18 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Teaching Assistant, Gergely Ujhelyi"
+  company = "University of Houston"
+  company_url = ""
+  location = "Houston"
+  date_start = "2022-08-01"
+  date_end = ""
+  description = """
+  
+"""
+
 [[experience]]
   title = "Instructor"
   company = "University of Houston"
@@ -29,20 +41,34 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Teaching Assistant"
+  title = "Teaching Assistant, Piruz Saboury"
+  company = "University of Houston"
+  company_url = ""
+  location = "Houston"
+  date_start = "2021-08-01"
+  date_end = "2022-01-01"
+  description = """
+ """
+  
+
+[[experience]]
+  title = "Teaching Assistant, Joel Melendez Lugo"
+  company = "University of Houston"
+  company_url = ""
+  location = "Houston"
+  date_start = "2020-08-01"
+  date_end = "2021-05-01"
+  description = """
+"""
+  
+[[experience]]
+  title = "Teaching Assistant, Islam Rizvanoghlu"
   company = "University of Houston"
   company_url = ""
   location = "Houston"
   date_start = "2018-08-01"
-  date_end = ""
+  date_end = "2019-08-01"
   description = """
-  
-  - Teaching Assistant, Gergely Ujhelyi, August 2022–present
-  
-  - Teaching Assistant, Piruz Saboury, August 2021–January 2022
-  
-  - Teaching Assistant, Principles of Microeconomics, Joel Melendez Lugo, August 2020–May 2021
-  
-  - Teaching Assistant, Intermediate Macroeconomics and Capital Market Economics, Islam Rizvanoghlu, August 2018–August 2019"""
+  """
 
 +++
