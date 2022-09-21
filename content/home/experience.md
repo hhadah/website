@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2021-05-01"
   date_end = "2022-09-01"
   description = """
-  - Principles of Microeconomics (Summer 2021, Spring 2021, and Summer 2022) [Link to course website](https://hussainhadah.com/courses/econ2304/)
+  - Principles of Microeconomics (Summer 2021, Spring 2021, and Summer 2022) [[Link to course website](https://hussainhadah.com/courses/econ2304/)]
   """
 
 [[experience]]
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Houston"
   date_start = "2018-08-01"
-  date_end = "2022-01-01"
+  date_end = ""
   description = """
   
   - Teaching Assistant, Gergely Ujhelyi, August 2022–present
