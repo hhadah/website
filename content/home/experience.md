@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2021-05-01"
   date_end = "2022-09-01"
   description = """
-  Principles of Microeconomics (Summer 2021, Spring 2021, and Summer 2022) [[Link to course website](https://hussainhadah.com/courses/econ2304/)]
+  Taught Principles of Microeconomics (Summer 2021, Spring 2021, and Summer 2022) [[Link to course website](https://hussainhadah.com/courses/econ2304/)]
   """
 
 [[experience]]
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   date_start = "2021-08-01"
   date_end = "2022-01-01"
   description = """
-  
+  Assisted with Intermediate Macroeconomics class
  """
   
 
@@ -60,6 +60,7 @@ date_format = "Jan 2006"
   date_start = "2020-08-01"
   date_end = "2021-05-01"
   description = """
+  Assisted with an undergraduate Principles of Microeconomics class
 """
   
 [[experience]]
@@ -70,6 +71,7 @@ date_format = "Jan 2006"
   date_start = "2018-08-01"
   date_end = "2019-08-01"
   description = """
+  Assisted with Intermediate Macroeconomics and Capital Market Economics classes
   """
 
 +++
