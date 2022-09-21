@@ -6,6 +6,8 @@ header:
 
 My teaching experience at the University of Houston:
 
+- Teaching Assistant, Gergely Ujhelyi, August 2022–present
+
 - Instructor, Principles of Microeconomics, Summer 2021, Spring 2022, and Summer 2022
 
 - Teaching Assistant, Piruz Saboury, August 2021–January 2022 

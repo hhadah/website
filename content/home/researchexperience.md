@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Houston"
   date_start = "2021-05-01"
-  date_end = "2021-09-01"
+  date_end = "2021-08-01"
   description = """
   - Vikram Maheshri, May 2021–August 2021
   """

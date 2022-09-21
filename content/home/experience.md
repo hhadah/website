@@ -33,9 +33,11 @@ date_format = "Jan 2006"
   company = "University of Houston"
   company_url = ""
   location = "Houston"
-  date_start = "2018-09-01"
+  date_start = "2018-08-01"
   date_end = "2022-01-01"
   description = """
+  
+  - Teaching Assistant, Gergely Ujhelyi, August 2022–present
   
   - Teaching Assistant, Piruz Saboury, August 2021–January 2022
   
