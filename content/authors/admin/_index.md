@@ -38,9 +38,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/hhadah
-# - icon: cv
-#   icon_pack: ai
-#   link: files/HussainHadahCV.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://hussainhadah.com/files/HussainHadahcv.pdf
 superuser: true
 title: Hussain Hadah
 user_groups:

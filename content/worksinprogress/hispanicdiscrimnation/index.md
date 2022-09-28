@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Impact of Hispanic Last Names and Identity on Labor Market Outcomes"
-authors: [Hussain Hadah]
+authors: ["Hussain Hadah"]
 date: "2020-05-01"
 doi: ""
 

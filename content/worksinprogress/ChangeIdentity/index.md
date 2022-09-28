@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Endogenous Hispanic Identity and Ethnic Gaps in the U.S"
-authors: [Hussain Hadah]
+authors: ["Hussain Hadah"]
 date: "2022-04-01"
 doi: ""
 

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Effect of Racial and Ethnic Attitudes on Hispanic Identity in the U.S"
-authors: [Hussain Hadah]
+authors: ["Hussain Hadah"]
 date: "2022-09-01"
 doi: ""
 
