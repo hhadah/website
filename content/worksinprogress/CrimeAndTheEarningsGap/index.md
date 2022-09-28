@@ -3,7 +3,7 @@
 
 title: "Discrimination and the Black-White Arrests Gap"
 authors: ["Hussain Hadah", "Vikram Maheshri"]
-date: "2021-11-01"
+date: "2021-11-00"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
