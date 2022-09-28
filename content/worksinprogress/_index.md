@@ -3,5 +3,5 @@ header:
   caption: ""
   image: ""
 title: Works in Progress
-view: 1
+view: 3
 ---
