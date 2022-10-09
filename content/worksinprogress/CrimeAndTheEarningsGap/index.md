@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "In this paper, we study the correlation between racial discrimination and the Black-White arrest gap."
 
 # Summary. An optional shortened abstract.
-summary: "In this paper, we study the correlation between crime and the Black-White earnings gap."
+summary: "In this paper, we study the correlation between crime and the Black-White arrests gap."
 
 tags: []
 categories: []
