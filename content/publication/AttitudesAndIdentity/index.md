@@ -2,8 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Effect of Racial and Ethnic Attitudes on Hispanic Identity in the U.S"
-authors: [Hussain Hadah]
+authors: 
+- Hussain Hadah
+
 date: 2022-05-01
+
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +19,7 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Works in Progress_"
+publication: "_Working Paper_"
 publication_short: ""
 
 abstract: "In this paper, I study the how racial and ethnic attitudes affect a person's own identity."
