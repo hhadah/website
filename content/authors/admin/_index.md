@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I am a Ph.D. candidate in Economics at the University of Houston. My research interest is in Applied Microeconomics primarily in labor and development economics.
+bio: I am a Ph.D. candidate in Economics at the University of Houston. My research interest is in Applied Microeconomics primarily in labor economics.
 education:
   courses:
   - course: Economics PhD Candidate
@@ -20,7 +20,6 @@ email: " "
 interests:
 - Applied Microeconomics
 - Labor Economics
-- Development Economics
 organizations:
 - name: University of Houston
   url: "https://www.uh.edu/class/economics/"
@@ -48,6 +47,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate in Economics at the University of Houston. My research interest is in Applied Microeconomics primarily in labor and development economics. I research topics on discrimination, race, identity, mental health, and social networks.
+I am a Ph.D. candidate in Economics at the University of Houston. My research interest is in Applied Microeconomics primarily in labor economics. I research topics on program evaluation, discrimination, race, identity, migration, mental health, and social networks.
 
 Download my [curriculum vitae](https://hussainhadah.com/files/HussainHadahcv.pdf). 
