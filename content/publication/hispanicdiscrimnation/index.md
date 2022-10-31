@@ -28,14 +28,9 @@ tags: []
 categories: []
 featured: false
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+# Customize links
 
+links:
 - name: PDF
   url: "pdf/FinalDraft.pdf"
 # url_code:
