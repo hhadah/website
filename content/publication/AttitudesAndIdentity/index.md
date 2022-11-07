@@ -31,22 +31,20 @@ tags: []
 categories: []
 featured: false
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+# Customize links
 
-url_pdf:
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_slides: https://hhadah.github.io/Spring2022Presentation/HussainHadah_Spring2022.html
-url_source:
-url_video:
+links:
+- name: PDF
+  url: "pdf/Hadah_JMP.pdf"
+# url_code:
+# url_dataset:
+# url_poster:
+# url_project:
+# url_slides:
+# url_source:
+# url_video:
+# url_source:
+# url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
