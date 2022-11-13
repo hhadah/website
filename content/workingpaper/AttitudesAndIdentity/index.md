@@ -19,10 +19,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "In this paper, I study the how racial and ethnic attitudes affect a person's own identity."
+abstract: "In this paper, I study the determinants of the choice to identify as Hispanic among those who could---those whose parents, grandparents, or selves were born in a Spanish-speaking country. I find that individuals with Hispanic ancestry are significantly less likely to self-identify as Hispanic if they live in states with high levels of implicit ethnic bias. A one standard deviation increase in bias decreases self-reported Hispanic identity by seven and 13 percentage points for first and second-generation Hispanics, respectively. These effects are more prominent among second-generation immigrants whose mothers and fathers were born in a Spanish-speaking country among children of inter-ethnic parents."
 
 # Summary. An optional shortened abstract.
-summary: "In this paper, I study the how racial and ethnic attitudes affect a person's own identity."
+summary: "In this paper, I study the determinants of the choice to identify as Hispanic among those who could---those whose parents, grandparents, or selves were born in a Spanish-speaking country. I find that individuals with Hispanic ancestry are significantly less likely to self-identify as Hispanic if they live in states with high levels of implicit ethnic bias. A one standard deviation increase in bias decreases self-reported Hispanic identity by seven and 13 percentage points for first and second-generation Hispanics, respectively. These effects are more prominent among second-generation immigrants whose mothers and fathers were born in a Spanish-speaking country among children of inter-ethnic parents."
 
 tags: []
 categories: []
