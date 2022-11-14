@@ -57,7 +57,7 @@ links:
 image:
   caption: ""
   focal_point: "Smart"
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
