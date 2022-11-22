@@ -3,7 +3,7 @@
 
 title: "The Spillover Effect of Mental Illness on Risk, Academic Achievement and Labor Market Outcomes: Evidence from a Longitudinal Dataset"
 authors: [Hussain Hadah]
-date: ""
+date: 2021-08-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
