@@ -34,7 +34,7 @@ featured: false
 
 links:
 - name: PDF
-  url: "pdf/Hadah_JMP.pdf"
+  url: "https://hhadah.github.io/Attitudes-and-Identity/my_paper/Hadah_JMP.pdf"
 # url_code:
 # url_dataset:
 # url_poster:
