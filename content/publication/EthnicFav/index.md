@@ -30,11 +30,12 @@ abstract: "What is the effect of democracy on ethnic favoritism? I estimate the 
 summary: ""
 
 tags:
-- '"Economics of Minorities"'
-- '"Race"'
-- '"Immigrants"'
-- '"Discrimination and Prejudice"'
-categories: [Working Paper]
+- 'Ethnic favoritism'
+- 'Democracy'
+- 'Dictatorships; institutions'
+- 'Institutions'
+- 'Working Paper'
+categories: []
 featured: false
 
 

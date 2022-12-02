@@ -24,8 +24,13 @@ abstract: "In this paper, I compare the children of inter-ethnic marriages to st
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
-categories: [Working Paper]
+tags:
+- 'Economics of Minorities'
+- 'Race'
+- 'Immigrants'
+- 'Discrimination and Prejudice'
+- 'Working Paper'
+categories: []
 featured: false
 
 # Customize links
