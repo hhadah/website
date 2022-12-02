@@ -24,7 +24,7 @@ abstract: "In this paper, I study the causes of a change in a person's identity.
 # Summary. An optional shortened abstract.
 summary: "In this paper, I study the causes of a change in a person's identity. I also investigate whether a change in identity affects labor and marriage markets outcomes."
 
-tags: 
+tags:
 - 'Works in Progress'
 categories: []
 featured: false
