@@ -24,7 +24,11 @@ abstract: "In this paper, I compare the children of inter-ethnic marriages to st
 # Summary. An optional shortened abstract.
 summary: "In this paper, I compare the children of inter-ethnic marriages to study the impact of having a Hispanic last name."
 
-tags: []
+tags:
+- 'Economics of Minorities'
+- 'Race'
+- 'Immigrants'
+- 'Discrimination and Prejudice'
 categories: []
 featured: false
 
