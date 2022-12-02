@@ -16,7 +16,7 @@ publishDate:
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "_Works in Progress_"
 publication_short: ""
 
 abstract: "We study the effect of gun controls and waiting periods on suicides."
@@ -24,7 +24,8 @@ abstract: "We study the effect of gun controls and waiting periods on suicides."
 # Summary. An optional shortened abstract.
 summary: "We study the effect of gun controls and waiting periods on suicides."
 
-tags: []
+tags:
+- Works in Progress
 categories: []
 featured: false
 
