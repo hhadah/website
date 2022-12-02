@@ -26,7 +26,7 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
+    category = "Working Paper"
     publication_type = "3"
     author = ""
     exclude_featured = false
