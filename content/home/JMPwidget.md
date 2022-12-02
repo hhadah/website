@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "JMP"
+    tag = "Job Market Paper"
     category = ""
     publication_type = ""
     author = ""
