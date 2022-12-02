@@ -32,7 +32,7 @@ summary: ""
 tags:
 - 'Ethnic favoritism'
 - 'Democracy'
-- 'Dictatorships; institutions'
+- 'Dictatorships'
 - 'Institutions'
 - 'Working Paper'
 categories: []
