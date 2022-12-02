@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "In this paper, I use a restricted longitudinal dataset, Add Health, to investigate the spillover effect of mental illness among friends on risky behavior, academic achievement, and labor market outcomes. I instrument the state of mental health of friends by the mental health of friends-of-friends. I find significant short-run effect on academic achievement, socialization, and risky behavior related to drug use. I find no long-run spillover effect of mental illness. The spillover effect of mental illness is stronger among females with a large network of friends."
 
 # Summary. An optional shortened abstract.
-summary: "In this paper, I use a restricted longitudinal dataset, Add Health, to investigate the spillover effect of mental illness among friends on risky behavior, academic achievement, and labor market outcomes."
+summary: "In this paper, I use a restricted longitudinal dataset, Add Health, to investigate the spillover effect of mental illness among friends on risky behavior, academic achievement, and labor market outcomes. I instrument the state of mental health of friends by the mental health of friends-of-friends. I find significant short-run effect on academic achievement, socialization, and risky behavior related to drug use. I find no long-run spillover effect of mental illness. The spillover effect of mental illness is stronger among females with a large network of friends."
 
 tags:
 - Works in Progress

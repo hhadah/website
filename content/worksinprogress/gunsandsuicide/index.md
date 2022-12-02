@@ -19,10 +19,10 @@ publication_types: ["0"]
 publication: "_Works in Progress_"
 publication_short: ""
 
-abstract: "We study the effect of gun controls and waiting periods on suicides."
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "We study the effect of gun controls and waiting periods on suicides."
+summary: ""
 
 tags:
 - Works in Progress

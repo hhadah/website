@@ -19,10 +19,10 @@ publication_types: ["0"]
 publication: "_Works in Progress_"
 publication_short: ""
 
-abstract: "In this paper, we study the correlation between racial discrimination and the Black-White arrest gap."
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "In this paper, we study the correlation between crime and the Black-White arrests gap."
+summary: ""
 
 tags: 
 - Works in Progress
