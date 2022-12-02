@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Working Paper"
+    tag = ""
     category = ""
     publication_type = ""
     author = ""
@@ -66,3 +66,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Endogenous Hispanic Identity and Ethnic Gaps in the U.S
