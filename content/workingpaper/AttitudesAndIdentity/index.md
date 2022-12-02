@@ -13,10 +13,10 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "_Working Paper_"
 publication_short: ""
 
 abstract: "In this paper, I study the determinants of the choice to identify as Hispanic among those who could---those whose parents, grandparents, or selves were born in a Spanish-speaking country. I find that individuals with Hispanic ancestry are significantly less likely to self-identify as Hispanic if they live in states with high levels of implicit ethnic bias. A one standard deviation increase in bias decreases self-reported Hispanic identity by seven and 13 percentage points for first and second-generation Hispanics, respectively. These effects are more prominent among second-generation immigrants whose mothers and fathers were born in a Spanish-speaking country than among children of inter-ethnic parents."

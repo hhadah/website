@@ -13,10 +13,10 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "_Working Paper_"
 publication_short: ""
 
 abstract: "In this paper, I compare the children of inter-ethnic marriages to study the impact of having a Hispanic last name. While males born to Hispanic father-White mothers earn less than those born to White father-Hispanic mothers, the gap could be completely explained by educational differences. I also study the effect of identifying as Hispanic on earnings. I find that men that identify as Hispanic earn significantly less than those that do not, even after controlling for educational differences."
