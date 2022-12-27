@@ -43,7 +43,9 @@ featured: false
 
 links:
 - name: PDF
-  url: "pdf/HussainHadahEthFav.pdf"
+  url: "https://hhadah.github.io/ethnicfavoritism/my_paper/HussainHadahEthFav.pdf"
+- name : Code
+  url: "https://github.com/hhadah/ethnicfavoritism.git"
 # url_code:
 # url_dataset:
 # url_poster:
