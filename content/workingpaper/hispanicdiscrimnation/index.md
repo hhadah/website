@@ -36,7 +36,7 @@ featured: false
 
 links:
 - name: PDF
-  url: "pdf/FinalDraft.pdf"
+  url: "https://hhadah.github.io/hispanic-last-names/my_paper/FinalDraft.pdf"
 # url_code:
 # url_dataset:
 # url_poster:
